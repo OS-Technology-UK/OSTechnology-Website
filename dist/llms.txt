@@ -1,0 +1,37 @@
+# OS Technology
+
+OS Technology is a UK-based managed IT services provider (MSP) and certified Microsoft 365 partner, offering IT support for home users and growing businesses across East Riding of Yorkshire and the UK.
+
+## Key Pages
+
+- [Home – UK Based IT Support & Managed IT Services](https://ostechnology.uk/)
+- [About OS Technology](https://ostechnology.uk/about.html)
+- [Home IT Support Services](https://ostechnology.uk/services/home.html)
+- [Business IT Services](https://ostechnology.uk/services/business.html)
+- [Managed IT Support for Business](https://ostechnology.uk/services/business/it-support.html)
+- [Microsoft Modern Workplace (Microsoft 365 & Copilot AI)](https://ostechnology.uk/services/business/modern-workplace.html)
+- [Business Cybersecurity](https://ostechnology.uk/services/business/cybersecurity.html)
+- [Device Support & Procurement](https://ostechnology.uk/services/business/device-support.html)
+- [New Device Provision](https://ostechnology.uk/services/business/new-devices.html)
+- [Web Presence & Hosting](https://ostechnology.uk/services/business/web-presence.html)
+- [Areas We Cover – IT Support Across East Riding](https://ostechnology.uk/locations)
+- [Industries We Support – Sector IT Support](https://ostechnology.uk/industries)
+- [Blog – IT & Cybersecurity Insights](https://ostechnology.uk/blog)
+
+## Local & Industry Landing Pages
+
+OS Technology publishes location-specific IT support pages for towns across the East Riding of Yorkshire (Hull, Beverley, Bridlington, Goole, Driffield, Cottingham, Hessle, Pocklington, Withernsea, Hedon, Howden and Market Weighton) at https://ostechnology.uk/locations, and industry-specific pages for office-based sectors (accountants, solicitors, estate agents, financial advisers, recruitment agencies, architects, insurance brokers, marketing agencies and charities) at https://ostechnology.uk/industries. Industry pages cover the IT foundation OS Technology manages — Microsoft 365, devices, cybersecurity and backup — not third-party line-of-business software, which is supported by its own vendors.
+
+## Markdown for Agents
+
+Every page on this site is also published as clean markdown. Send `Accept: text/markdown` with a request to any page URL and the markdown representation is returned instead of HTML, or append `.md` to the path (for example https://ostechnology.uk/about.md). Browsers are unaffected: HTML remains the default representation.
+
+## Description
+
+OS Technology provides remote-first IT support with no call centres and no jargon. Services include Microsoft 365 deployment and migration, cybersecurity auditing, device procurement, web presence management, and fully managed IT support plans (Starter, Standard, Premium).
+
+## Contact
+
+- Email: hello@ostechnology.uk
+- Website: https://ostechnology.uk/
+- Area served: East Riding of Yorkshire and UK-wide (remote)

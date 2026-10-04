@@ -5,7 +5,7 @@ MIME types, caching and security headers all live in `web.config`.
 
 ## Markdown for agents
 
-Every page has a markdown twin next to it (`about.html` → `about.md`) holding the
+Every generated page has a markdown twin in `dist` (`dist/about.html` → `dist/about.md`) holding the
 same content as clean, formatting-stripped text. AI agents and other clients can
 reach it two ways:
 
@@ -17,9 +17,10 @@ Browsers send `Accept: text/html,...`, never match the negotiation rules, and ke
 getting HTML. Because one URL now has two representations, page responses carry
 `Vary: Accept`.
 
-The markdown is generated, not hand-written. After editing any page, regenerate it:
+The markdown is generated, not hand-written. After editing the site, rebuild and regenerate it:
 
 ```sh
+npm run build
 pip install beautifulsoup4 html2text
 python3 tools/generate-markdown.py
 ```

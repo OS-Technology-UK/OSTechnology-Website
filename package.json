@@ -1,0 +1,9 @@
+{
+  "name": "os-technology-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npm run build && python -m http.server 4173 -d dist"
+  }
+}

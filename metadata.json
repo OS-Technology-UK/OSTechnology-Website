@@ -1,6 +1,0 @@
-{
-  "name": "OS Technology",
-  "description": "Microsoft 365 MSP and IT support for home users and growing businesses across East Riding of Yorkshire and the UK.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

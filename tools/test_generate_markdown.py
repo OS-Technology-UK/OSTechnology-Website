@@ -46,7 +46,7 @@ class MarkdownGenerationTests(unittest.TestCase):
                 f"<meta name='description' content='{description}'></head>"
                 '<body><main><h1>Hello</h1></main></body></html>', encoding="utf-8"
             )
-            with patch.object(generator, "REPO_ROOT", root):
+            with patch.object(generator, "SITE_ROOT", root):
                 markdown = generator.convert(page)
         metadata = dict(line.split(": ", 1) for line in markdown.split("---", 2)[1].strip().splitlines())
         self.assertEqual(json.loads(metadata["title"]), title)
@@ -68,6 +68,19 @@ class MarkdownGenerationTests(unittest.TestCase):
                 if section:
                     self.assertIn(f"Use the contact form at {expected}", soup.main.get_text())
                 self.assertIsNone(soup.main.find("form"))
+
+    def test_dist_pages_skip_clean_url_copies(self):
+        with tempfile.TemporaryDirectory() as directory:
+            site = Path(directory)
+            (site / "about").mkdir()
+            (site / "index.html").write_text("home", encoding="utf-8")
+            (site / "about.html").write_text("about", encoding="utf-8")
+            (site / "about" / "index.html").write_text("copy", encoding="utf-8")
+            with patch.object(generator, "SITE_ROOT", site):
+                self.assertEqual(
+                    [path.relative_to(site).as_posix() for path in generator.html_pages()],
+                    ["about.html", "index.html"],
+                )
 
     def test_form_without_enclosing_anchor_uses_its_own_id(self):
         soup = BeautifulSoup('<main><form id="enquiry"></form></main>', "html.parser")

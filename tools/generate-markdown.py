@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Generate the markdown representation of every page on the site.
 
-Each `foo.html` gets a sibling `foo.md` holding the same page content as clean,
+Each `dist/foo.html` gets a sibling `dist/foo.md` holding the same page content as clean,
 formatting-stripped markdown. IIS serves those files to clients that ask for
 markdown via `Accept: text/markdown` (see the content-negotiation rules in
 web.config), or to anyone who requests the `.md` URL directly.
 
-Run this after editing any page:
+Run this after rebuilding the site:
 
     pip install beautifulsoup4 html2text
     python3 tools/generate-markdown.py
@@ -33,10 +33,8 @@ except ImportError:  # pragma: no cover - dependency hint
     sys.exit("Missing dependencies. Run: pip install beautifulsoup4 html2text")
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+SITE_ROOT = REPO_ROOT / "dist"
 SITE_ORIGIN = "https://ostechnology.uk"
-
-# Directories that hold tooling or config rather than published pages.
-SKIP_DIRS = {".git", ".claude", "tools", "css", "images", "media"}
 
 # Chrome that repeats on every page and carries no information for a reader who
 # already has the page's own content: navigation, the footer, decorative icons,
@@ -51,6 +49,7 @@ STRIP_SELECTORS = [
     "header.site-header",
     "footer.site-footer",
     "nav.breadcrumb",
+    "nav.breadcrumbs",
     "nav.footer-nav",
     ".back-to-top",
     ".theme-toggle",
@@ -58,6 +57,10 @@ STRIP_SELECTORS = [
     ".page-hero-bg",
     ".section-kicker",
     ".page-hero-kicker",
+    ".eyebrow",
+    ".signal-strip > span",
+    ".service-row > span",
+    ".service-row > b",
     ".article-share",
     ".blog-card-link",
     ".related-link",
@@ -93,7 +96,7 @@ def absolutise(href: str, page_url: str) -> str:
 
 def page_url_for(path: Path) -> str:
     """The canonical URL of a page, derived from its path under the repo root."""
-    relative = path.relative_to(REPO_ROOT).as_posix()
+    relative = path.relative_to(SITE_ROOT).as_posix()
     if relative == "index.html":
         return f"{SITE_ORIGIN}/"
     return f"{SITE_ORIGIN}/{relative[: -len('.html')]}"
@@ -134,8 +137,8 @@ def rewrite_contact_links(root, page_url: str) -> None:
     """Restore the visible text of obfuscated contact links.
 
     Email is already published in plain text in llms.txt, so it is spelled out
-    here. The phone number is not published anywhere in plain text, so it stays
-    behind the contact form rather than being exposed by this conversion.
+    here. Phone links, if any, stay behind the contact form rather than being
+    exposed by this conversion.
     """
     contact_url = contact_form_url(root, page_url)
     for link in root.select("[data-contact-type]"):
@@ -291,8 +294,8 @@ def convert(path: Path) -> str:
 def html_pages() -> list[Path]:
     pages = [
         path
-        for path in REPO_ROOT.rglob("*.html")
-        if not SKIP_DIRS.intersection(path.relative_to(REPO_ROOT).parts[:-1])
+        for path in SITE_ROOT.rglob("*.html")
+        if path.name != "index.html" or path.parent == SITE_ROOT
     ]
     return sorted(pages)
 
@@ -310,7 +313,7 @@ def main() -> int:
     for page in html_pages():
         target = page.with_suffix(".md")
         markdown = convert(page)
-        relative = target.relative_to(REPO_ROOT).as_posix()
+        relative = target.relative_to(SITE_ROOT).as_posix()
         if args.check:
             current = target.read_text(encoding="utf-8") if target.exists() else None
             if current != markdown:
