@@ -148,5 +148,6 @@ write('assets/site.css', readFileSync(join(root, 'assets/site.css'))); write('as
 // IIS is the production runtime. Keep its routing, security headers, MIME maps
 // and caching policy beside the generated site so publishing `dist` is complete.
 write('web.config', readFileSync(join(root, 'web.config')));
+write('llms.txt', readFileSync(join(root, 'llms.txt')));
 write('404.html', shell({title:'Page not found | OS Technology',description:'The requested page could not be found.',route:'/404',schema:''}, `<section class="not-found"><p class="eyebrow">404</p><h1>Nothing useful lives at this address.</h1><p>Try the homepage or explore our business services.</p><a class="button button-primary" href="/">Return home</a></section>`));
 console.log(`Built ${htmlFiles.length} source pages, ${articles.length} restored articles and clean-URL copies.`);

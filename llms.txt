@@ -22,6 +22,10 @@ OS Technology is a UK-based managed IT services provider (MSP) and certified Mic
 
 OS Technology publishes location-specific IT support pages for towns across the East Riding of Yorkshire (Hull, Beverley, Bridlington, Goole, Driffield, Cottingham, Hessle, Pocklington, Withernsea, Hedon, Howden and Market Weighton) at https://ostechnology.uk/locations, and industry-specific pages for office-based sectors (accountants, solicitors, estate agents, financial advisers, recruitment agencies, architects, insurance brokers, marketing agencies and charities) at https://ostechnology.uk/industries. Industry pages cover the IT foundation OS Technology manages — Microsoft 365, devices, cybersecurity and backup — not third-party line-of-business software, which is supported by its own vendors.
 
+## Markdown for Agents
+
+Every page on this site is also published as clean markdown. Send `Accept: text/markdown` with a request to any page URL and the markdown representation is returned instead of HTML, or append `.md` to the path (for example https://ostechnology.uk/about.md). Browsers are unaffected: HTML remains the default representation.
+
 ## Description
 
 OS Technology provides remote-first IT support with no call centres and no jargon. Services include Microsoft 365 deployment and migration, cybersecurity auditing, device procurement, web presence management, and fully managed IT support plans (Starter, Standard, Premium).
