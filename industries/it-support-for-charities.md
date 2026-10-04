@@ -1,7 +1,7 @@
 ---
-title: IT Support for Charities & Non-profits | OS Technology
-description: Cost-effective, secure IT support for charities and non-profits. We manage your Microsoft 365, devices, security and backup, and help you access non-profit p
-url: https://ostechnology.uk/industries/it-support-for-charities
+title: "IT Support for Charities & Non-profits | OS Technology"
+description: "Cost-effective, secure IT support for charities and non-profits. We manage your Microsoft 365, devices, security and backup, and help you access non-profit p"
+url: "https://ostechnology.uk/industries/it-support-for-charities"
 site: OS Technology
 ---
 

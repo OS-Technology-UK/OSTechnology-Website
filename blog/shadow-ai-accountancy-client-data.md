@@ -1,7 +1,7 @@
 ---
-title: Shadow AI and Client Data: The Hidden Risk in Your Accountancy Practice | OS Technology Blog
-description: Staff at your accountancy firm are probably already using AI tools on client data, tax returns, payroll, bank statements, without formal sign-off. Here's why that matters under UK GDPR and what a sensible policy looks like.
-url: https://ostechnology.uk/blog/shadow-ai-accountancy-client-data
+title: "Shadow AI and Client Data: The Hidden Risk in Your Accountancy Practice | OS Technology Blog"
+description: "Staff at your accountancy firm are probably already using AI tools on client data, tax returns, payroll, bank statements, without formal sign-off. Here's why that matters under UK GDPR and what a sensible policy looks like."
+url: "https://ostechnology.uk/blog/shadow-ai-accountancy-client-data"
 site: OS Technology
 ---
 

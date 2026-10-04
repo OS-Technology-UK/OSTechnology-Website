@@ -1,7 +1,7 @@
 ---
-title: IT & Cybersecurity Blog | OS Technology
-description: IT support and cybersecurity insights for UK businesses and home users, from OS Technology. Practical guidance on staying secure, productive and online.
-url: https://ostechnology.uk/blog
+title: "IT & Cybersecurity Blog | OS Technology"
+description: "IT support and cybersecurity insights for UK businesses and home users, from OS Technology. Practical guidance on staying secure, productive and online."
+url: "https://ostechnology.uk/blog"
 site: OS Technology
 ---
 

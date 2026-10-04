@@ -1,7 +1,7 @@
 ---
-title: Free Cybersecurity Audit for UK Businesses | OS Technology
-description: Claim your free, no-obligation cybersecurity audit for UK businesses. Our certified engineers remotely check your network, Wi-Fi, devices, data handling and more for hidden risks. Limited-time offer.
-url: https://ostechnology.uk/free-cybersecurity-audit
+title: "Free Cybersecurity Audit for UK Businesses | OS Technology"
+description: "Claim your free, no-obligation cybersecurity audit for UK businesses. Our certified engineers remotely check your network, Wi-Fi, devices, data handling and more for hidden risks. Limited-time offer."
+url: "https://ostechnology.uk/free-cybersecurity-audit"
 site: OS Technology
 ---
 
@@ -141,7 +141,7 @@ This free audit offer is available for a limited time. Find out where your busin
 
 Tell us a little about your business and we'll be in touch within one business day to arrange your free audit.
 
-Use the contact form at https://ostechnology.uk/free-cybersecurity-audit#contact to get in touch.
+Use the contact form at https://ostechnology.uk/free-cybersecurity-audit#audit to get in touch.
 
 **100% Free**
 
@@ -153,7 +153,7 @@ Carried out by our certified Microsoft 365 and security specialists.
 
 **Call Us**
 
-[Contact form](https://ostechnology.uk/free-cybersecurity-audit#contact)
+[Contact form](https://ostechnology.uk/free-cybersecurity-audit#audit)
 
 **Email Us**
 

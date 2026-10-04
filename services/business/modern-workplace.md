@@ -1,7 +1,7 @@
 ---
-title: Microsoft Modern Workplace | Microsoft 365 & Copilot AI | OS Technology
-description: Microsoft Modern Workplace from OS Technology: Microsoft 365, Teams and Copilot AI set up and managed by a certified Microsoft partner, keeping your people productive, secure and at the forefront of modern business practices.
-url: https://ostechnology.uk/services/business/modern-workplace
+title: "Microsoft Modern Workplace | Microsoft 365 & Copilot AI | OS Technology"
+description: "Microsoft Modern Workplace from OS Technology: Microsoft 365, Teams and Copilot AI set up and managed by a certified Microsoft partner, keeping your people productive, secure and at the forefront of modern business practices."
+url: "https://ostechnology.uk/services/business/modern-workplace"
 site: OS Technology
 ---
 

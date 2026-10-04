@@ -1,7 +1,7 @@
 ---
-title: About OS Technology | Complete IT Services for UK Businesses
-description: OS Technology is your single IT partner for everything - managed support, cybersecurity, Microsoft 365, cloud, devices, and web presence, all in one place for UK businesses.
-url: https://ostechnology.uk/about
+title: "About OS Technology | Complete IT Services for UK Businesses"
+description: "OS Technology is your single IT partner for everything - managed support, cybersecurity, Microsoft 365, cloud, devices, and web presence, all in one place for UK businesses."
+url: "https://ostechnology.uk/about"
 site: OS Technology
 ---
 
@@ -51,4 +51,4 @@ Good security practice is part of the job, not an upsell. We build it in from th
 
 Tell us where you are and what you need - we'll be straight with you about what makes sense and what it'll cost.
 
-[Book a Free Consultation](https://ostechnology.uk/#contact) [Contact form](https://ostechnology.uk/about#contact)
+[Book a Free Consultation](https://ostechnology.uk/#contact) [Contact form](https://ostechnology.uk/#contact)

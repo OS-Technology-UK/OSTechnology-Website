@@ -1,7 +1,7 @@
 ---
-title: IT Support for Estate & Letting Agents | OS Technology
-description: Reliable IT support for estate and letting agents. We keep your Microsoft 365, email, devices and security working across every branch and out on the road, s
-url: https://ostechnology.uk/industries/it-support-for-estate-agents
+title: "IT Support for Estate & Letting Agents | OS Technology"
+description: "Reliable IT support for estate and letting agents. We keep your Microsoft 365, email, devices and security working across every branch and out on the road, s"
+url: "https://ostechnology.uk/industries/it-support-for-estate-agents"
 site: OS Technology
 ---
 

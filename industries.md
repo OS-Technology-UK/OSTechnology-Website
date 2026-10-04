@@ -1,7 +1,7 @@
 ---
-title: IT Support by Industry | Sector IT Support | OS Technology
-description: Managed IT support tailored to office-based businesses: accountants, solicitors, estate agents, financial advisers, recruiters, architects and more. Microsoft 365, security and backup.
-url: https://ostechnology.uk/industries
+title: "IT Support by Industry | Sector IT Support | OS Technology"
+description: "Managed IT support tailored to office-based businesses: accountants, solicitors, estate agents, financial advisers, recruiters, architects and more. Microsoft 365, security and backup."
+url: "https://ostechnology.uk/industries"
 site: OS Technology
 ---
 

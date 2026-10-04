@@ -1,7 +1,7 @@
 ---
-title: IT Support for Solicitors & Law Firms | OS Technology
-description: Confidential, secure IT support for solicitors and law firms. We manage your Microsoft 365, devices, cybersecurity and backup so your practice stays protecte
-url: https://ostechnology.uk/industries/it-support-for-solicitors
+title: "IT Support for Solicitors & Law Firms | OS Technology"
+description: "Confidential, secure IT support for solicitors and law firms. We manage your Microsoft 365, devices, cybersecurity and backup so your practice stays protecte"
+url: "https://ostechnology.uk/industries/it-support-for-solicitors"
 site: OS Technology
 ---
 

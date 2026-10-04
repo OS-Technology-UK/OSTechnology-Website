@@ -1,7 +1,7 @@
 ---
-title: IT & Tech Support in Hedon | Managed IT | OS Technology
-description: Managed IT support for businesses in Hedon, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee.
-url: https://ostechnology.uk/locations/it-support-hedon
+title: "IT & Tech Support in Hedon | Managed IT | OS Technology"
+description: "Managed IT support for businesses in Hedon, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee."
+url: "https://ostechnology.uk/locations/it-support-hedon"
 site: OS Technology
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: IT & Tech Support in Market Weighton | Managed IT | OS Technology
-description: Managed IT support for businesses in Market Weighton, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee.
-url: https://ostechnology.uk/locations/it-support-market-weighton
+title: "IT & Tech Support in Market Weighton | Managed IT | OS Technology"
+description: "Managed IT support for businesses in Market Weighton, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee."
+url: "https://ostechnology.uk/locations/it-support-market-weighton"
 site: OS Technology
 ---
 

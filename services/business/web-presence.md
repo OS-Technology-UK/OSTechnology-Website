@@ -1,7 +1,7 @@
 ---
-title: Web Design & Hosting Services | SEO & Digital Presence | OS Technology
-description: Custom web design, managed hosting, domain registration, SSL certificates and SEO for small businesses. No WordPress, no page-builders: just fast, clean websites you own.
-url: https://ostechnology.uk/services/business/web-presence
+title: "Web Design & Hosting Services | SEO & Digital Presence | OS Technology"
+description: "Custom web design, managed hosting, domain registration, SSL certificates and SEO for small businesses. No WordPress, no page-builders: just fast, clean websites you own."
+url: "https://ostechnology.uk/services/business/web-presence"
 site: OS Technology
 ---
 

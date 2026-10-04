@@ -1,7 +1,7 @@
 ---
-title: Business Cybersecurity | Security Audits & Endpoint Protection | OS Technology
-description: Business cybersecurity for small businesses. Security audits, endpoint protection, staff training and incident response — practical, affordable protection.
-url: https://ostechnology.uk/services/business/cybersecurity
+title: "Business Cybersecurity | Security Audits & Endpoint Protection | OS Technology"
+description: "Business cybersecurity for small businesses. Security audits, endpoint protection, staff training and incident response — practical, affordable protection."
+url: "https://ostechnology.uk/services/business/cybersecurity"
 site: OS Technology
 ---
 

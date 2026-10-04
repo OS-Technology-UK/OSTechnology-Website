@@ -1,7 +1,7 @@
 ---
-title: Business IT Services | Managed IT & Microsoft Modern Workplace | OS Technology
-description: Business IT services from OS Technology, managed IT support, cybersecurity, Microsoft Modern Workplace (Microsoft 365 & Copilot AI), new device provision, web presence and device support for growing businesses.
-url: https://ostechnology.uk/services/business
+title: "Business IT Services | Managed IT & Microsoft Modern Workplace | OS Technology"
+description: "Business IT services from OS Technology, managed IT support, cybersecurity, Microsoft Modern Workplace (Microsoft 365 & Copilot AI), new device provision, web presence and device support for growing businesses."
+url: "https://ostechnology.uk/services/business"
 site: OS Technology
 ---
 

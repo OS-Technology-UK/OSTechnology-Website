@@ -20,6 +20,7 @@ from __future__ import annotations
 import argparse
 import base64
 import binascii
+import json
 import re
 import sys
 from pathlib import Path
@@ -110,11 +111,23 @@ def promote_faq_questions(root) -> None:
     for item in root.select("li.faq-item"):
         item.name = "div"
     for question in root.select(".faq-question"):
-        heading = root.new_tag("h3") if hasattr(root, "new_tag") else None
-        if heading is None:
-            heading = BeautifulSoup("<h3></h3>", "html.parser").h3
+        heading = BeautifulSoup("", "html.parser").new_tag("h3")
         heading.string = question.get_text(" ", strip=True)
         question.replace_with(heading)
+
+
+def form_url(form, page_url: str) -> str:
+    """Link to the form's enclosing section, or to the form itself."""
+    section = form.find_parent(attrs={"id": True})
+    anchor = section.get("id") if section else form.get("id")
+    parts = urlsplit(page_url)
+    return urlunsplit(parts._replace(fragment=anchor or ""))
+
+
+def contact_form_url(root, page_url: str) -> str:
+    """Use this page's contact form when present, otherwise the homepage's."""
+    form = root.find("form", class_="contact-form")
+    return form_url(form, page_url) if form else f"{SITE_ORIGIN}/#contact"
 
 
 def rewrite_contact_links(root, page_url: str) -> None:
@@ -124,6 +137,7 @@ def rewrite_contact_links(root, page_url: str) -> None:
     here. The phone number is not published anywhere in plain text, so it stays
     behind the contact form rather than being exposed by this conversion.
     """
+    contact_url = contact_form_url(root, page_url)
     for link in root.select("[data-contact-type]"):
         kind = link.get("data-contact-type")
         value = decode_contact(link.get("data-contact-value", "")) or ""
@@ -131,7 +145,7 @@ def rewrite_contact_links(root, page_url: str) -> None:
             link.attrs = {"href": f"mailto:{value}"}
             link.string = value
         else:
-            link.attrs = {"href": f"{page_url}#contact"}
+            link.attrs = {"href": contact_url}
             link.string = "Contact form"
 
 
@@ -157,7 +171,7 @@ def replace_forms(root, page_url: str) -> None:
     """Form controls are useless as text; point at the form's URL instead."""
     for form in root.find_all("form"):
         placeholder = BeautifulSoup(
-            f"<p>Use the contact form at {page_url}#contact to get in touch.</p>",
+            f"<p>Use the contact form at {form_url(form, page_url)} to get in touch.</p>",
             "html.parser",
         )
         form.replace_with(placeholder)
@@ -260,12 +274,12 @@ def convert(path: Path) -> str:
 
     front_matter = [
         "---",
-        f"title: {title}",
+        f"title: {json.dumps(title, ensure_ascii=False)}",
     ]
     if description:
-        front_matter.append(f"description: {description}")
+        front_matter.append(f"description: {json.dumps(description, ensure_ascii=False)}")
     front_matter += [
-        f"url: {page_url}",
+        f"url: {json.dumps(page_url, ensure_ascii=False)}",
         "site: OS Technology",
         "---",
         "",

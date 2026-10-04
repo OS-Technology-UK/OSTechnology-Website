@@ -1,7 +1,7 @@
 ---
-title: Virtual CIO (vCIO) Services | Strategic IT Consultancy | OS Technology
-description: Virtual CIO (vCIO) services for growing UK businesses. Technology roadmapping, IT budget planning, vendor management and quarterly business reviews from OS Technology.
-url: https://ostechnology.uk/services/business/vcio
+title: "Virtual CIO (vCIO) Services | Strategic IT Consultancy | OS Technology"
+description: "Virtual CIO (vCIO) services for growing UK businesses. Technology roadmapping, IT budget planning, vendor management and quarterly business reviews from OS Technology."
+url: "https://ostechnology.uk/services/business/vcio"
 site: OS Technology
 ---
 

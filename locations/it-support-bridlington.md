@@ -1,7 +1,7 @@
 ---
-title: IT & Tech Support in Bridlington | Managed IT | OS Technology
-description: Managed IT support for businesses in Bridlington, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee.
-url: https://ostechnology.uk/locations/it-support-bridlington
+title: "IT & Tech Support in Bridlington | Managed IT | OS Technology"
+description: "Managed IT support for businesses in Bridlington, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee."
+url: "https://ostechnology.uk/locations/it-support-bridlington"
 site: OS Technology
 ---
 

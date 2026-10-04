@@ -1,7 +1,7 @@
 ---
-title: IT Support Across East Riding of Yorkshire | Areas We Cover | OS Technology
-description: Managed IT support for businesses across the East Riding of Yorkshire, including Hull, Beverley, Bridlington, Goole and Driffield. Remote-first, on-site when needed.
-url: https://ostechnology.uk/locations
+title: "IT Support Across East Riding of Yorkshire | Areas We Cover | OS Technology"
+description: "Managed IT support for businesses across the East Riding of Yorkshire, including Hull, Beverley, Bridlington, Goole and Driffield. Remote-first, on-site when needed."
+url: "https://ostechnology.uk/locations"
 site: OS Technology
 ---
 

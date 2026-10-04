@@ -1,7 +1,7 @@
 ---
-title: UK Based IT Support & Managed IT Services | OS Technology
-description: Microsoft 365 MSP and IT support for home users and growing businesses across East Riding of Yorkshire and the UK. Honest pricing, no jargon.
-url: https://ostechnology.uk/
+title: "UK Based IT Support & Managed IT Services | OS Technology"
+description: "Microsoft 365 MSP and IT support for home users and growing businesses across East Riding of Yorkshire and the UK. Honest pricing, no jargon."
+url: "https://ostechnology.uk/"
 site: OS Technology
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Multiple Business Emails, One Microsoft 365 Tenant: A Case Study | OS Technology Blog
-description: One entrepreneur, ten email addresses, ten different domains, spread across Google Workspace, private mail servers and cheap web hosts. Here's how we brought it all under one Microsoft 365 tenant, and how to spot if your business needs the same.
-url: https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant
+title: "Multiple Business Emails, One Microsoft 365 Tenant: A Case Study | OS Technology Blog"
+description: "One entrepreneur, ten email addresses, ten different domains, spread across Google Workspace, private mail servers and cheap web hosts. Here's how we brought it all under one Microsoft 365 tenant, and how to spot if your business needs the same."
+url: "https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant"
 site: OS Technology
 ---
 

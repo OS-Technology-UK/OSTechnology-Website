@@ -1,7 +1,7 @@
 ---
-title: The Biggest Cybersecurity Incidents of 2026 | OS Technology Blog
-description: A UK-focused look at 2026's biggest cybersecurity incidents, a leaked visa database, attacks on European infrastructure, vishing campaigns and supply chain breaches, and what they mean for UK businesses.
-url: https://ostechnology.uk/blog/2026-cybersecurity-incidents-uk-businesses
+title: "The Biggest Cybersecurity Incidents of 2026 | OS Technology Blog"
+description: "A UK-focused look at 2026's biggest cybersecurity incidents, a leaked visa database, attacks on European infrastructure, vishing campaigns and supply chain breaches, and what they mean for UK businesses."
+url: "https://ostechnology.uk/blog/2026-cybersecurity-incidents-uk-businesses"
 site: OS Technology
 ---
 

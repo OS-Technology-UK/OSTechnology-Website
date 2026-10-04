@@ -1,7 +1,7 @@
 ---
-title: IT Support for Insurance Brokers | OS Technology
-description: Secure IT support for insurance brokers. We manage your Microsoft 365, devices, cybersecurity and backup so client data stays protected, email stays reliable
-url: https://ostechnology.uk/industries/it-support-for-insurance-brokers
+title: "IT Support for Insurance Brokers | OS Technology"
+description: "Secure IT support for insurance brokers. We manage your Microsoft 365, devices, cybersecurity and backup so client data stays protected, email stays reliable"
+url: "https://ostechnology.uk/industries/it-support-for-insurance-brokers"
 site: OS Technology
 ---
 

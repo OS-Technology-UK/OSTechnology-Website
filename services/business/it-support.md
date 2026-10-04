@@ -1,7 +1,7 @@
 ---
-title: Managed IT Support for Small Businesses UK | MSP Services | OS Technology
-description: Managed IT support for small businesses across the UK. Remote monitoring, helpdesk, patch management and cloud services — predictable monthly fee, no hidden costs.
-url: https://ostechnology.uk/services/business/it-support
+title: "Managed IT Support for Small Businesses UK | MSP Services | OS Technology"
+description: "Managed IT support for small businesses across the UK. Remote monitoring, helpdesk, patch management and cloud services — predictable monthly fee, no hidden costs."
+url: "https://ostechnology.uk/services/business/it-support"
 site: OS Technology
 ---
 

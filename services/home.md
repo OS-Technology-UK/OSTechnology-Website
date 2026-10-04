@@ -1,7 +1,7 @@
 ---
-title: Home IT Support | Remote Tech Help for Home Users | OS Technology
-description: Remote IT support for home users from OS Technology. We fix tech problems, keep your devices running and protect you online. Clear pricing, no jargon.
-url: https://ostechnology.uk/services/home
+title: "Home IT Support | Remote Tech Help for Home Users | OS Technology"
+description: "Remote IT support for home users from OS Technology. We fix tech problems, keep your devices running and protect you online. Clear pricing, no jargon."
+url: "https://ostechnology.uk/services/home"
 site: OS Technology
 ---
 

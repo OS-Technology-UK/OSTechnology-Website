@@ -1,7 +1,7 @@
 ---
-title: Microsoft 365 Copilot Now Runs GPT-5.6 and Claude: What It Means for UK Businesses | OS Technology Blog
-description: Microsoft 365 Copilot can now run on OpenAI's GPT-5.6 or Anthropic's Claude Sonnet 5, not just Microsoft's own models. Here's what that shift means for UK businesses, and what to ask your IT partner.
-url: https://ostechnology.uk/blog/microsoft-365-copilot-gpt-claude-multi-model
+title: "Microsoft 365 Copilot Now Runs GPT-5.6 and Claude: What It Means for UK Businesses | OS Technology Blog"
+description: "Microsoft 365 Copilot can now run on OpenAI's GPT-5.6 or Anthropic's Claude Sonnet 5, not just Microsoft's own models. Here's what that shift means for UK businesses, and what to ask your IT partner."
+url: "https://ostechnology.uk/blog/microsoft-365-copilot-gpt-claude-multi-model"
 site: OS Technology
 ---
 

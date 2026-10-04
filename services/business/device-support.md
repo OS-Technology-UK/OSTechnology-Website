@@ -1,7 +1,7 @@
 ---
-title: Business Device Support | Remote & On-Site IT Repairs | OS Technology
-description: Business device support — remote troubleshooting, hardware repairs, SSD upgrades and software fixes for your company laptops, desktops and peripherals.
-url: https://ostechnology.uk/services/business/device-support
+title: "Business Device Support | Remote & On-Site IT Repairs | OS Technology"
+description: "Business device support — remote troubleshooting, hardware repairs, SSD upgrades and software fixes for your company laptops, desktops and peripherals."
+url: "https://ostechnology.uk/services/business/device-support"
 site: OS Technology
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: IT Support for Entrepreneurs & Multi-Business Owners | OS Technology
-description: Managed IT support for entrepreneurs and multi-business owners. One Microsoft 365 tenant, one point of contact and one bill covering every company you run, whether that's two businesses or ten.
-url: https://ostechnology.uk/industries/it-support-for-entrepreneurs
+title: "IT Support for Entrepreneurs & Multi-Business Owners | OS Technology"
+description: "Managed IT support for entrepreneurs and multi-business owners. One Microsoft 365 tenant, one point of contact and one bill covering every company you run, whether that's two businesses or ten."
+url: "https://ostechnology.uk/industries/it-support-for-entrepreneurs"
 site: OS Technology
 ---
 

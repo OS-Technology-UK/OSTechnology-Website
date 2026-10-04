@@ -1,7 +1,7 @@
 ---
-title: Twenty Accounts, Half of Them in Plain Text: A Password Management Follow-Up | OS Technology Blog
-description: Following on from our email consolidation case study, we looked at the same client's other business accounts. Around half of their 20+ logins were stored in a plain text document. Here's how we moved everything to a proper password manager.
-url: https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager
+title: "Twenty Accounts, Half of Them in Plain Text: A Password Management Follow-Up | OS Technology Blog"
+description: "Following on from our email consolidation case study, we looked at the same client's other business accounts. Around half of their 20+ logins were stored in a plain text document. Here's how we moved everything to a proper password manager."
+url: "https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager"
 site: OS Technology
 ---
 

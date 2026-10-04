@@ -1,7 +1,7 @@
 ---
-title: New Devices & Asset Provision for Business | OS Technology
-description: We source, configure and deploy business laptops, desktops and peripherals — pre-configured with your security policies and apps, ready from day one.
-url: https://ostechnology.uk/services/business/new-devices
+title: "New Devices & Asset Provision for Business | OS Technology"
+description: "We source, configure and deploy business laptops, desktops and peripherals — pre-configured with your security policies and apps, ready from day one."
+url: "https://ostechnology.uk/services/business/new-devices"
 site: OS Technology
 ---
 

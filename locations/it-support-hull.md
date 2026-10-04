@@ -1,7 +1,7 @@
 ---
-title: IT & Tech Support in Hull | Managed IT | OS Technology
-description: Managed IT support for businesses in Hull, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee.
-url: https://ostechnology.uk/locations/it-support-hull
+title: "IT & Tech Support in Hull | Managed IT | OS Technology"
+description: "Managed IT support for businesses in Hull, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee."
+url: "https://ostechnology.uk/locations/it-support-hull"
 site: OS Technology
 ---
 

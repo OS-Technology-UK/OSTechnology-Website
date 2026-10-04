@@ -1,7 +1,7 @@
 ---
-title: IT Support for Recruitment Agencies | OS Technology
-description: Fast, reliable IT support for recruitment agencies. We manage your Microsoft 365, devices, security and backup so your consultants stay connected and product
-url: https://ostechnology.uk/industries/it-support-for-recruitment-agencies
+title: "IT Support for Recruitment Agencies | OS Technology"
+description: "Fast, reliable IT support for recruitment agencies. We manage your Microsoft 365, devices, security and backup so your consultants stay connected and product"
+url: "https://ostechnology.uk/industries/it-support-for-recruitment-agencies"
 site: OS Technology
 ---
 

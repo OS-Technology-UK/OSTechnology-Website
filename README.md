@@ -26,3 +26,9 @@ python3 tools/generate-markdown.py
 
 `python3 tools/generate-markdown.py --check` verifies the committed `.md` files
 match the HTML without writing anything, and exits non-zero if any are stale.
+
+Run the generator and content-negotiation regression checks with the same dependencies:
+
+```sh
+python3 -m unittest discover -s tools -p 'test_*.py'
+```

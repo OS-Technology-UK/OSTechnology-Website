@@ -1,7 +1,7 @@
 ---
-title: IT & Tech Support in Hessle | Managed IT | OS Technology
-description: Managed IT support for businesses in Hessle, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee.
-url: https://ostechnology.uk/locations/it-support-hessle
+title: "IT & Tech Support in Hessle | Managed IT | OS Technology"
+description: "Managed IT support for businesses in Hessle, East Riding of Yorkshire. Proactive monitoring, Microsoft 365, cybersecurity and helpdesk support for a fixed monthly fee."
+url: "https://ostechnology.uk/locations/it-support-hessle"
 site: OS Technology
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Shadow AI in Recruitment: The Risk Hiding in Your CV Pile | OS Technology Blog
-description: Consultants are already pasting CVs and candidate details into free AI tools to move faster. Here's why that's a growing GDPR and client-trust risk for recruitment agencies, and how to get ahead of it.
-url: https://ostechnology.uk/blog/shadow-ai-recruitment-cv-data
+title: "Shadow AI in Recruitment: The Risk Hiding in Your CV Pile | OS Technology Blog"
+description: "Consultants are already pasting CVs and candidate details into free AI tools to move faster. Here's why that's a growing GDPR and client-trust risk for recruitment agencies, and how to get ahead of it."
+url: "https://ostechnology.uk/blog/shadow-ai-recruitment-cv-data"
 site: OS Technology
 ---
 

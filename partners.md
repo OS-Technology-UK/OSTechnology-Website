@@ -1,7 +1,7 @@
 ---
-title: Partners | Microsoft Licensing, ThreatDown Security & Ironscales | OS Technology
-description: OS Technology partners with Microsoft, ThreatDown, and Ironscales to bring you enterprise-grade licensing, endpoint security, and email protection. Contact our team for details.
-url: https://ostechnology.uk/partners
+title: "Partners | Microsoft Licensing, ThreatDown Security & Ironscales | OS Technology"
+description: "OS Technology partners with Microsoft, ThreatDown, and Ironscales to bring you enterprise-grade licensing, endpoint security, and email protection. Contact our team for details."
+url: "https://ostechnology.uk/partners"
 site: OS Technology
 ---
 
@@ -67,4 +67,4 @@ Want to see how ThreatDown fits into your security stack? We'll walk you through
 
 Tell us what you need and we'll recommend the right products for your business — no obligation, no jargon.
 
-[Book a Free Consultation](https://ostechnology.uk/#contact) [Contact form](https://ostechnology.uk/partners#contact)
+[Book a Free Consultation](https://ostechnology.uk/#contact) [Contact form](https://ostechnology.uk/#contact)

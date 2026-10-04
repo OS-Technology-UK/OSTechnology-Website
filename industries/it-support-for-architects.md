@@ -1,7 +1,7 @@
 ---
-title: IT Support for Architects | OS Technology
-description: Reliable IT support for architects and design practices. We keep your workstations, Microsoft 365, large-file storage, security and backup running so your te
-url: https://ostechnology.uk/industries/it-support-for-architects
+title: "IT Support for Architects | OS Technology"
+description: "Reliable IT support for architects and design practices. We keep your workstations, Microsoft 365, large-file storage, security and backup running so your te"
+url: "https://ostechnology.uk/industries/it-support-for-architects"
 site: OS Technology
 ---
 

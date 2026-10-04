@@ -1,7 +1,7 @@
 ---
-title: IT Support for Accountants | OS Technology
-description: Secure, reliable IT support for accountancy practices and bookkeepers. We look after your Microsoft 365, devices, security and backup so your team can focus
-url: https://ostechnology.uk/industries/it-support-for-accountants
+title: "IT Support for Accountants | OS Technology"
+description: "Secure, reliable IT support for accountancy practices and bookkeepers. We look after your Microsoft 365, devices, security and backup so your team can focus"
+url: "https://ostechnology.uk/industries/it-support-for-accountants"
 site: OS Technology
 ---
 
