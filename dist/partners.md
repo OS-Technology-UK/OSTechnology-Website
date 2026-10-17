@@ -5,67 +5,39 @@ url: "https://ostechnology.uk/partners"
 site: OS Technology
 ---
 
-# Trusted products from industry leaders
+# Microsoft licensing and practical security.
 
-We partner with Microsoft and ThreatDown to bring you enterprise-grade licensing, endpoint security, and email protection — all sold and supported directly by our team.
+Microsoft CSP indirect reseller services, with security technologies selected around your business needs.
 
-## Microsoft Licensing
+[Talk through your needs ↗](https://ostechnology.uk/partners#contact)
 
-As an authorised Microsoft CSP, we sell the full range of Microsoft 365 and Office 365 licenses. Whether you need professional email for a small team or a full enterprise deployment with advanced security and compliance, we'll match you with the right plan and handle the setup.
+## Microsoft CSP indirect reseller
 
-### Business Plans
+We supply Microsoft cloud subscriptions through the Cloud Solution Provider programme and help you choose, configure and manage the services your business needs. CSP indirect reseller status is a reseller relationship; it does not imply a Microsoft Solutions Partner designation.
 
-  * **Microsoft 365 Business Basic** Web and mobile Office apps, Exchange email, Teams, 1 TB OneDrive, SharePoint
+### Microsoft 365 for business
 
-  * **Microsoft 365 Business Standard** Everything in Basic plus full desktop Office apps (Word, Excel, PowerPoint, Outlook)
+Business Basic, Standard and Premium options, selected around your email, applications, device management and security needs.
 
-  * **Microsoft 365 Business Premium** Everything in Standard plus Intune device management, Defender for Business, Azure AD P1, advanced threat protection
+### Licensing and ongoing support
 
-### Enterprise Plans
+Microsoft 365 enterprise options, Exchange Online and additional services where appropriate. The proposal identifies the subscriptions and support included.
 
-  * **Microsoft 365 E3** Full Office suite, Windows Enterprise, advanced compliance, information protection, unlimited OneDrive
+## Protection selected for your environment.
 
-  * **Microsoft 365 E5** Everything in E3 plus Defender for Endpoint P2, advanced analytics, Power BI Pro, Phone System, audio conferencing
+### ThreatDown endpoint protection
 
-  * **Microsoft 365 F1 / F3** Purpose-built for frontline workers — mobile-first Office apps, Teams, task management, and shift scheduling
+Endpoint detection and response, with managed detection and response options where included in your plan.
 
-### Office 365 & Standalone
+### Email security
 
-  * **Exchange Online (Plan 1 & Plan 2)** Business-class email and calendaring with 50–100 GB mailboxes, hosted Exchange without a full Microsoft 365 suite
+Additional email protection options, including Ironscales, configured around the risks and services in your agreed scope.
 
-  * **Office 365 E1 / E3 / E5** Web and desktop Office apps with enterprise email, compliance, and advanced analytics at scale
+## Understand what is included.
 
-  * **Microsoft Copilot for Microsoft 365** AI-powered assistant across Word, Excel, PowerPoint, Outlook, and Teams — available as an add-on to qualifying plans
+We explain which products are proposed, how licensing is billed and what OS Technology will manage. Product availability and licensing terms are confirmed in your estimate.
 
-  * **Standalone Products** Visio, Project, Power BI Pro, Microsoft Intune, Azure AD P1/P2, Windows 365 Cloud PC, and more — available individually or as add-ons
-
-Not sure which license is right for you? We'll assess your needs and recommend the best fit — no obligation.
-
-[Contact Our Team](https://ostechnology.uk/#contact)
-
-## ThreatDown Security
-
-ThreatDown (by Malwarebytes) delivers enterprise-grade endpoint protection without the complexity. We sell and deploy their full security stack — from endpoint detection to 24/7 managed response and AI-powered email security via Ironscales.
-
-### Endpoint Protection
-
-  * **ThreatDown EDR** Endpoint Detection & Response — real-time threat detection, automated remediation, ransomware rollback, and device isolation across your fleet
-
-  * **ThreatDown MDR** Managed Detection & Response — 24/7 SOC monitoring, expert-led threat hunting, and guided remediation so you don't need an in-house security team
-
-### Email Security via Ironscales
-
-  * **Ironscales Email Security** AI-powered phishing protection, automated incident response, mailbox-level threat detection, and end-user security awareness training — available through ThreatDown
-
-Want to see how ThreatDown fits into your security stack? We'll walk you through the options and tailor a solution to your environment.
-
-[Contact Our Team](https://ostechnology.uk/#contact)
-
-## Ready to get started?
-
-Tell us what you need and we'll recommend the right products for your business — no obligation, no jargon.
-
-[Book a Free Consultation](https://ostechnology.uk/#contact)
+[Compare business support ↗](https://ostechnology.uk/services/business)
 
 ## Tell us what needs to work better.
 

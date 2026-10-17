@@ -7,7 +7,7 @@ site: OS Technology
 
 # Twenty Accounts, Half of Them in Plain Text: A Password Management Follow-Up
 
-10 August 2026OS Technology team
+10 August 2026OS Technology
 
 In this article
 
@@ -35,6 +35,14 @@ Nothing about this was visible from the outside, same as the email consolidation
 ## Worth checking in your own business
 
 You don’t need ten companies for this to be worth a look. It’s common for growing businesses to have logins scattered across notes apps, spreadsheets or documents rather than a proper password manager. If that sounds familiar, it’s an easy thing to fix, and our [cybersecurity team](https://ostechnology.uk/services/business/cybersecurity) can help you get it sorted.
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
+
+## More documented projects
+
+Explore our website, email and password management work.
+
+[Browse case studies ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

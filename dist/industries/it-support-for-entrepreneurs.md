@@ -9,6 +9,8 @@ site: OS Technology
 
 You run more than one company, so your IT shouldn’t be split across a different provider, login and invoice for each one. We bring every business you own under one managed Microsoft 365 tenant and one support relationship, for a single predictable fee, so you have one team who understands your whole portfolio.
 
+[Talk through your needs ↗](https://ostechnology.uk/industries/it-support-for-entrepreneurs#contact)
+
 ## IT Support for Entrepreneurs & Multi-Business Owners
 
 Building several businesses at once is hard enough without each one dragging along its own email system, its own security setup and its own IT bill. It’s a pattern we see constantly: a company gets set up fast to seize an opportunity, IT gets sorted under time pressure by whoever’s closest to the problem, and a decade later you’re juggling logins, invoices and admin access across a handful of unrelated providers, with no single place to see it all.
@@ -23,8 +25,6 @@ Instead of remembering which provider looks after which company, you get a singl
 
 Entrepreneurs don’t stop at one company, and your IT shouldn’t need re-deciding every time you start another. Once the foundation is in place, launching a new business is a domain added to a tenant that already exists, with security, backups and access control already sorted, so the next venture doesn’t start with the same IT sprawl the last few did.
 
-What’s Included
-
   * Multi-domain Microsoft 365 tenant
   * Consolidated billing across every business
   * Cybersecurity & endpoint protection
@@ -34,7 +34,7 @@ What’s Included
   * Fast onboarding for new ventures
   * Monthly IT health reports across your portfolio
 
-Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans). Microsoft 365 licences are billed separately.
+Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans). Microsoft 365 licences are billed separately.
 
 [Get a Free Assessment](https://ostechnology.uk/industries/it-support-for-entrepreneurs#contact)
 
@@ -88,19 +88,19 @@ From day one, every business is monitored, maintained and supported. Monthly rep
 
 ## Frequently Asked Questions
 
-### I run several separate companies. Can you support them all under one plan?
+I run several separate companies. Can you support them all under one plan?
 
 Yes, this is exactly what we specialise in. We bring every business you own into one managed Microsoft 365 tenant and one support relationship, so you get a single bill, a single admin centre and one team who understands your whole portfolio, instead of juggling separate IT arrangements for each company.
 
-### Can each of my businesses keep its own domain, email addresses and branding?
+Can each of my businesses keep its own domain, email addresses and branding?
 
 Absolutely. Consolidating behind the scenes doesn’t change how your businesses look to customers. Each company keeps sending and receiving mail on its own domain with its own branding; the simplification is entirely invisible from the outside.
 
-### What happens when I start a new venture?
+What happens when I start a new venture?
 
 It becomes far simpler. Instead of deciding an email system and security setup under time pressure, a new company is just another domain added to a tenant that already exists, with security, backups and access control already in place.
 
-### My businesses are very different sizes. Does that matter?
+My businesses are very different sizes. Does that matter?
 
 Not at all. We licence and support each business according to what it actually needs, whether that’s two people or twenty, and keep each company’s data logically separated even though everything sits under one roof administratively.
 
@@ -116,11 +116,15 @@ Book a free IT assessment and see how straightforward it is to hand every busine
 
 Multi-domain Microsoft 365 tenant setup, migration and ongoing management, done right first time.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
 
 ### Virtual CIO (vCIO)
 
 Strategic technology reviews to spot sprawl, waste and risk across a growing or multi-company business.
+
+View Service →
 
 [Virtual CIO (vCIO)](https://ostechnology.uk/services/business/vcio)
 
@@ -128,7 +132,51 @@ Strategic technology reviews to spot sprawl, waste and risk across a growing or 
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
+
+## IT that supports entrepreneurs & multi-business owners
+
+We support Microsoft 365, devices, security, backup and connectivity. Your specialist business applications remain supported by their vendors; we can coordinate infrastructure troubleshooting with them.
+
+### Several businesses, clear ownership
+
+Keep domains and mailboxes identifiable while reducing the number of unrelated providers and admin accounts to manage.
+
+### Business logins and handovers
+
+Move shared or scattered credentials into a password manager and review who can access each business account.
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### Ten domains. One Microsoft 365 tenant.
+
+**The problem:** Business email spread across several providers and ten domains.
+
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
+
+**The result:** One place to manage business email and account access.
+
+Read the project ↗
+
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
+
+### 20+ logins moved into a password manager
+
+**The problem:** The same client’s business logins were scattered, with around half stored in a plain-text document.
+
+**What we delivered:** Moving the 20+ business logins into a password manager.
+
+**The result:** Business credentials brought together instead of left in scattered storage.
+
+Read the project ↗
+
+[20+ logins moved into a password manager](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

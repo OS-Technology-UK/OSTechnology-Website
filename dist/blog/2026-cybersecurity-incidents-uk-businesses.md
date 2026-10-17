@@ -7,7 +7,7 @@ site: OS Technology
 
 # The Biggest Cybersecurity Incidents of 2026, and What They Mean for UK Businesses
 
-27 July 2026OS Technology team
+27 July 2026OS Technology
 
 In this article
 
@@ -56,6 +56,8 @@ A few practical threads run through all of this. Identity documents (passports, 
 None of this is unique to America. The same attackers, the same techniques, and in at least one case, the same UK government-linked system, are already in scope.
 
 If any of this has you wondering where your own business stands, that’s exactly what our [free cybersecurity audit](https://ostechnology.uk/free-cybersecurity-audit) is for: a straightforward, no-obligation look at your network, devices, data handling and account security, so you know what to fix before it becomes a headline.
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
 
 ## Tell us what needs to work better.
 

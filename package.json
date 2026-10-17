@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
+    "check": "node scripts/check-site.mjs",
+    "check:browser": "node scripts/check-browser.cjs",
     "preview": "npm run build && python -m http.server 4173 -d dist"
   }
 }

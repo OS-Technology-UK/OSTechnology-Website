@@ -7,7 +7,9 @@ site: OS Technology
 
 # Business Cybersecurity: Protect Your Business from Modern Threats
 
-Cyber attacks don't only target large enterprises. Our certified engineers deliver practical, affordable cybersecurity for small businesses: from in-depth audits and endpoint protection to staff training and rapid incident response.
+Cyber attacks don't only target large enterprises. We deliver practical, affordable cybersecurity for small businesses: from in-depth audits and endpoint protection to staff training and rapid incident response.
+
+[Talk through your needs ↗](https://ostechnology.uk/services/business/cybersecurity#contact)
 
 ## Why Cybersecurity Matters for Small Businesses
 
@@ -30,8 +32,6 @@ We configure and manage your network firewall and deploy Endpoint Detection and 
 
 Most breaches start with a human error. We deliver practical phishing-aware training for your team and, if the worst happens, provide rapid incident containment, recovery and regulatory reporting support.
 
-What's Covered
-
   * Cybersecurity audit & risk assessment
   * Firewall configuration & management
   * Endpoint Detection & Response (EDR)
@@ -42,7 +42,7 @@ What's Covered
   * Incident response & recovery
   * Cyber Essentials guidance
 
-Coverage scales with your plan — email protection and threat detection on Standard, with Managed Detection & Response (MDR) and a 24/7 response team on Premium. [Compare our plans](https://ostechnology.uk/business#plans).
+Coverage scales with your plan — email protection and threat detection on Standard, with Managed Detection & Response (MDR) and a 24/7 response team on Premium. [Compare our plans](https://ostechnology.uk/services/business#plans).
 
 [Book a Free Security Review](https://ostechnology.uk/services/business/cybersecurity#contact)
 
@@ -96,23 +96,23 @@ Ongoing monitoring flags new threats as they emerge. We review your security pos
 
 ## Frequently Asked Questions
 
-### Do small businesses really need cybersecurity services?
+Do small businesses really need cybersecurity services?
 
 Yes, small businesses are increasingly targeted precisely because they often lack the security measures of larger enterprises. According to UK government data, around 32% of UK businesses reported a cyber breach or attack in the past year. A single ransomware incident can cost far more than a year of proper security investment.
 
-### What is a cybersecurity audit?
+What is a cybersecurity audit?
 
 A cybersecurity audit is a systematic review of your IT systems, policies and practices to identify vulnerabilities and security gaps. We examine your network, devices, access controls, email security and staff practices, then provide a prioritised report of findings with practical recommendations.
 
-### What should I do if my business has been hacked?
+What should I do if my business has been hacked?
 
 If you suspect a breach, act immediately: isolate affected devices from the network, do not turn them off, and call us. Our incident response service will help you contain the breach, investigate what happened, recover your systems and report to the relevant authorities (such as the ICO if personal data was compromised).
 
-### Can you protect us against ransomware?
+Can you protect us against ransomware?
 
 We implement a multi-layered defence against ransomware including endpoint detection and response (EDR) tools, email filtering to block malicious attachments, regular offline backups so you can recover without paying a ransom, and staff training to recognise phishing attempts, the most common ransomware delivery mechanism.
 
-### What is Cyber Essentials and do you help with it?
+What is Cyber Essentials and do you help with it?
 
 Cyber Essentials is a UK government-backed certification scheme that demonstrates a baseline level of cybersecurity. Holding the certification can be required for government contracts and reassures customers you take security seriously. We help businesses work towards and achieve Cyber Essentials certification.
 
@@ -128,11 +128,15 @@ Book a free security review today and find out where your vulnerabilities are, b
 
 Fast, friendly helpdesk support for your team, by phone, email or remote access, with on-site visits when needed.
 
+View Service →
+
 [IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Microsoft Modern Workplace
 
-Microsoft 365 and Copilot AI, set up, managed and supported by our certified Microsoft team.
+Microsoft 365 and Copilot AI, set up, managed and supported by our Microsoft 365 specialists.
+
+View Service →
 
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
 
@@ -140,7 +144,27 @@ Microsoft 365 and Copilot AI, set up, managed and supported by our certified Mic
 
 Strategic oversight of risk and compliance, with a maintained risk register informing your security priorities.
 
+View Service →
+
 [Virtual CIO (vCIO)](https://ostechnology.uk/services/business/vcio)
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### 20+ logins moved into a password manager
+
+**The problem:** The same client’s business logins were scattered, with around half stored in a plain-text document.
+
+**What we delivered:** Moving the 20+ business logins into a password manager.
+
+**The result:** Business credentials brought together instead of left in scattered storage.
+
+Read the project ↗
+
+[20+ logins moved into a password manager](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

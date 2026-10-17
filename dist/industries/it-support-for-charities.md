@@ -9,6 +9,8 @@ site: OS Technology
 
 Cost-effective, secure IT support for charities and non-profits. We manage your Microsoft 365, devices, security and backup, and help you access non-profit pricing, so more of your resources go to your cause.
 
+[Talk through your needs ↗](https://ostechnology.uk/industries/it-support-for-charities#contact)
+
 ## IT Support for Charities & Non-profits
 
 Charities and non-profits do vital work on tight budgets, often with a mix of paid staff and volunteers, and a duty to look after supporter and beneficiary data carefully. You need technology that is secure, reliable and cost-effective, and a supplier who understands that every pound counts.
@@ -23,8 +25,6 @@ Microsoft offers significant discounts and grants on Microsoft 365 for eligible 
 
 Supporter and beneficiary data deserves proper protection, even on a charity budget. We put sensible, cost-effective security in place: endpoint protection, multi-factor authentication, managed backup and security awareness for staff and volunteers. And because volunteers come and go, we make onboarding and offboarding straightforward, so access and data are always handled properly.
 
-What’s Included
-
   * Microsoft 365 & email management
   * Cybersecurity & endpoint protection
   * Managed cloud backup
@@ -34,7 +34,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans). Microsoft 365 licences are billed separately.
+Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans). Microsoft 365 licences are billed separately.
 
 [Get a Free Assessment](https://ostechnology.uk/industries/it-support-for-charities#contact)
 
@@ -44,7 +44,7 @@ A complete IT function for your firm: predictable costs, proactive protection, e
 
 ### Microsoft 365 & Email
 
-Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team, so email and collaboration just work.
+Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists, so email and collaboration just work.
 
 ### Cybersecurity
 
@@ -60,7 +60,7 @@ We supply, set up and support the laptops and PCs your team relies on, so everyo
 
 ### Helpdesk Support
 
-A friendly helpdesk your staff can contact for day-to-day issues, with most problems resolved remotely in minutes.
+A friendly helpdesk your staff can contact for day-to-day issues, with remote troubleshooting where appropriate.
 
 ### Secure Remote & Hybrid Working
 
@@ -88,19 +88,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Is there special Microsoft 365 pricing for charities?
+Is there special Microsoft 365 pricing for charities?
 
 Yes — Microsoft offers discounts and grants on Microsoft 365 for eligible non-profits. As part of managing your Microsoft 365, we can help you check eligibility and set up the right non-profit licensing so you get the tools you need for less.
 
-### Can you support a mix of staff and volunteers?
+Can you support a mix of staff and volunteers?
 
 Absolutely. We make onboarding and offboarding straightforward, so both staff and volunteers get secure access to what they need, and access is properly removed when people move on, protecting your data throughout.
 
-### How do you keep supporter and beneficiary data secure?
+How do you keep supporter and beneficiary data secure?
 
 We put cost-effective, layered protection in place: endpoint security, multi-factor authentication, managed backup and security awareness, helping you protect sensitive data and meet your data protection responsibilities on a sensible budget.
 
-### Is managed IT affordable for a small charity?
+Is managed IT affordable for a small charity?
 
 Our simple fixed monthly pricing keeps costs predictable, and combined with non-profit licensing it’s often more affordable than organisations expect, and far cheaper than the disruption of a serious IT or security incident.
 
@@ -116,11 +116,15 @@ Book a free IT assessment and see how straightforward it is to hand your IT to a
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep client data protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -128,7 +132,21 @@ Endpoint protection, security audits and incident response to keep client data p
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## IT that supports charities & non-profits
+
+We support Microsoft 365, devices, security, backup and connectivity. Your specialist business applications remain supported by their vendors; we can coordinate infrastructure troubleshooting with them.
+
+### Staff and volunteer access
+
+Provide accounts appropriate to each role and remove access when involvement ends. Keep organisational files out of personal accounts where possible.
+
+### Continuity on a clear budget
+
+Prioritise device protection, backup and account ownership, with a written scope that makes ongoing costs understandable.
 
 ## Tell us what needs to work better.
 

@@ -5,79 +5,95 @@ url: "https://ostechnology.uk/industries"
 site: OS Technology
 ---
 
-# IT Support for Your Industry
+# Business IT for your sector.
 
-Every sector works a little differently, but office-based firms share the same need: technology that’s secure, reliable and just works. We look after the Microsoft 365, devices, cybersecurity and backup your business runs on, so your team can focus on clients. Find your industry below.
+Practical support for the devices, accounts and information your work depends on. Find your industry below.
 
-## IT Support Built Around Your Business
+[Talk through your needs ↗](https://ostechnology.uk/industries#contact)
 
-We support office-based firms of all kinds. Select your industry to see how we help.
+## Support shaped around the work you do.
+
+We manage your IT foundations and work alongside specialist software vendors when needed.
 
 ### Accountants
 
-Managed IT support built around accountants.
+Protect client files, manage Microsoft 365 and keep access under control.
+
+Explore ↗
 
 [Accountants](https://ostechnology.uk/industries/it-support-for-accountants)
 
-### Solicitors & Law Firms
+### Solicitors & law firms
 
-Managed IT support built around solicitors & law firms.
+Support confidential document work, email and staff access.
 
-[Solicitors & Law Firms](https://ostechnology.uk/industries/it-support-for-solicitors)
+Explore ↗
 
-### Estate & Letting Agents
+[Solicitors & law firms](https://ostechnology.uk/industries/it-support-for-solicitors)
 
-Managed IT support built around estate & letting agents.
+### Estate & letting agents
 
-[Estate & Letting Agents](https://ostechnology.uk/industries/it-support-for-estate-agents)
+Keep office and mobile working connected and protect customer information.
 
-### Financial Advisers
+Explore ↗
 
-Managed IT support built around financial advisers.
+[Estate & letting agents](https://ostechnology.uk/industries/it-support-for-estate-agents)
 
-[Financial Advisers](https://ostechnology.uk/industries/it-support-for-financial-advisers)
+### Financial advisers
 
-### Recruitment Agencies
+Secure the devices, accounts and files behind client-facing work.
 
-Managed IT support built around recruitment agencies.
+Explore ↗
 
-[Recruitment Agencies](https://ostechnology.uk/industries/it-support-for-recruitment-agencies)
+[Financial advisers](https://ostechnology.uk/industries/it-support-for-financial-advisers)
+
+### Recruitment agencies
+
+Protect CV data and support collaboration between consultants.
+
+Explore ↗
+
+[Recruitment agencies](https://ostechnology.uk/industries/it-support-for-recruitment-agencies)
 
 ### Architects
 
-Managed IT support built around architects.
+Support workstations, large-file collaboration and business continuity.
+
+Explore ↗
 
 [Architects](https://ostechnology.uk/industries/it-support-for-architects)
 
-### Insurance Brokers
+### Insurance brokers
 
-Managed IT support built around insurance brokers.
+Protect client information and keep everyday office systems dependable.
 
-[Insurance Brokers](https://ostechnology.uk/industries/it-support-for-insurance-brokers)
+Explore ↗
 
-### Marketing & Creative Agencies
+[Insurance brokers](https://ostechnology.uk/industries/it-support-for-insurance-brokers)
 
-Managed IT support built around marketing & creative agencies.
+### Marketing & creative agencies
 
-[Marketing & Creative Agencies](https://ostechnology.uk/industries/it-support-for-marketing-agencies)
+Keep client accounts, collaboration and devices manageable.
 
-### Charities & Non-profits
+Explore ↗
 
-Managed IT support built around charities & non-profits.
+[Marketing & creative agencies](https://ostechnology.uk/industries/it-support-for-marketing-agencies)
 
-[Charities & Non-profits](https://ostechnology.uk/industries/it-support-for-charities)
+### Charities & non-profits
 
-### Entrepreneurs & Multi-Business Owners
+Manage access across staff and volunteers with practical security.
 
-Umbrella IT support built for running several businesses at once.
+Explore ↗
 
-[Entrepreneurs & Multi-Business Owners](https://ostechnology.uk/industries/it-support-for-entrepreneurs)
+[Charities & non-profits](https://ostechnology.uk/industries/it-support-for-charities)
 
-## Don’t See Your Industry?
+### Entrepreneurs & multi-business owners
 
-We support all kinds of office-based businesses, not just the ones listed here. Get in touch and we’ll explain exactly how we’d help your firm.
+Bring domains, email and business logins into a manageable setup.
 
-[Book a Free IT Assessment](https://ostechnology.uk/industries#contact)
+Explore ↗
+
+[Entrepreneurs & multi-business owners](https://ostechnology.uk/industries/it-support-for-entrepreneurs)
 
 ## Tell us what needs to work better.
 

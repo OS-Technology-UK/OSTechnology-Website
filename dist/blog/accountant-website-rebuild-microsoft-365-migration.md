@@ -7,7 +7,7 @@ site: OS Technology
 
 # From a Homemade Website to a Modern, Secure Workplace: How We Helped a Local Accountant Get Found Online Again
 
-1 September 2026OS Technology team
+1 September 2026OS Technology
 
 In this article
 
@@ -44,6 +44,20 @@ Within a day, the client had a fast website that Google could actually find. Wit
 This is a pattern we see often with small local businesses. Something was set up early on, it technically works, and nobody questions it again for years. The site still loads, the email still sends, so it never reaches the top of anyone’s list.
 
 If your website is quietly costing you customers, or your email hasn’t been looked at since the business started, get in touch. We’ll take a look and tell you honestly what needs fixing. You can see what we cover on our [web presence and hosting](https://ostechnology.uk/services/business/web-presence) and [Microsoft modern workplace](https://ostechnology.uk/services/business/modern-workplace) pages, or read more about how we support [accountancy practices](https://ostechnology.uk/industries/it-support-for-accountants) specifically.
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
+
+## More documented projects
+
+Explore our website, email and password management work.
+
+[Browse case studies ↗](https://ostechnology.uk/case-studies)
+
+## Help with your own setup
+
+  * [Website design ↗](https://ostechnology.uk/services/business/website-design)
+  * [Business email setup ↗](https://ostechnology.uk/services/business/business-email)
+  * [Microsoft 365 migration ↗](https://ostechnology.uk/services/business/microsoft-365-migration)
 
 ## Tell us what needs to work better.
 

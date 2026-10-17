@@ -9,6 +9,8 @@ site: OS Technology
 
 Local IT support for businesses in Driffield, the Capital of the Wolds — from the market town centre to the surrounding rural and light-industrial firms. Reliable, secure and refreshingly jargon-free.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-driffield#contact)
+
 ## IT Support in Driffield
 
 Known as the Capital of the Wolds, Driffield is a busy market town serving a wide rural area, with a mix of professional offices, retailers and light-industrial businesses. Good IT is just as important out here as it is in the city, and being a little further from the coast or Hull shouldn’t mean slower support.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Driffield and nearby areas including Nafferton, Hutton Cranswick, Wetwang, Beverley and Bridlington. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Driffield and nearby areas including Nafferton, Hutton Cranswick, Wetwang, Beverley and Bridlington. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-driffield#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,21 +89,21 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Driffield?
+Do you provide IT support in Driffield?
 
-Yes. We support businesses throughout Driffield and the surrounding Wolds villages. Because we work remotely first, distance is no barrier — most issues are resolved in minutes, with on-site visits arranged when needed.
+Yes. We support businesses throughout Driffield and the surrounding Wolds villages. Because we work remotely first, distance is no barrier — we begin with remote troubleshooting where appropriate, with on-site visits arranged when needed.
 
-### Are you a local Driffield IT company?
+Are you a local Driffield IT company?
 
 We’re an East Riding–focused managed IT provider. For a market town like Driffield, our remote-first model is a genuine benefit: you’re not waiting for an engineer to drive across the Wolds before your problem gets looked at.
 
-### What kind of Driffield businesses do you support?
+What kind of Driffield businesses do you support?
 
 Office-based firms that don’t have in-house IT — accountants, solicitors, agencies and the office side of rural and trade businesses around Driffield. We offer plans across Starter, Standard and Premium.
 
-### How much does IT support in Driffield cost?
+How much does IT support in Driffield cost?
 
-We charge a fixed monthly fee for predictable budgeting. The price depends on the plan — get in touch for a free assessment and a tailored quote.
+We charge a fixed monthly fee for predictable budgeting. The price depends on the plan — get in touch for a free assessment and a tailored estimate.
 
 ## Ready to Sort Out Your IT in Driffield?
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your Dr
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,31 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Driffield
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Driffield, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Beverley
+
+Explore business IT support in Beverley.
+
+Explore ↗
+
+[Beverley](https://ostechnology.uk/locations/it-support-beverley)
+
+### Bridlington
+
+Explore business IT support in Bridlington.
+
+Explore ↗
+
+[Bridlington](https://ostechnology.uk/locations/it-support-bridlington)
 
 ## Tell us what needs to work better.
 

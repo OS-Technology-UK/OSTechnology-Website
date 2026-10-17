@@ -9,6 +9,8 @@ site: OS Technology
 
 We take the hassle out of equipping your team. From sourcing the right laptops, desktops and peripherals to configuring every device with your security policies and apps, your staff receive hardware that's ready to use from the moment they switch it on.
 
+[Talk through your needs ↗](https://ostechnology.uk/services/business/new-devices#contact)
+
 ## Device Sourcing & Procurement
 
 Finding the right hardware shouldn't mean hours of research and price comparisons. We source laptops, desktops, monitors and peripherals from trusted vendors at competitive prices, and recommend specifications based on each role's requirements, so your design team gets the power they need and your admin staff aren't paying for hardware they'll never use.
@@ -33,8 +35,6 @@ Every device we provision arrives ready to use, no waiting around for IT setup o
 
 We maintain a complete asset register for every device we deploy, giving you full visibility and control over your IT estate. Each record includes serial numbers, warranty expiry dates, assigned users, purchase costs and lifecycle status, making it straightforward to plan replacements, handle warranty claims and keep your accounts up to date.
 
-What's Included
-
   * Hardware sourcing & procurement
   * Role-based spec recommendations
   * Full OS & app pre-configuration
@@ -44,13 +44,13 @@ What's Included
   * Warranty tracking & lifecycle management
   * Direct-to-employee shipping
 
-Pair new devices with ongoing managed support — [compare our plans](https://ostechnology.uk/business#plans).
+Pair new devices with ongoing managed support — [compare our plans](https://ostechnology.uk/services/business#plans).
 
-[Request a Quote](https://ostechnology.uk/services/business/new-devices#contact)
+[Contact us](https://ostechnology.uk/services/business/new-devices#contact)
 
 ## Asset Provision at a Glance
 
-From the first quote to ongoing lifecycle management, every step of your device provisioning is handled.
+From the first estimate to ongoing lifecycle management, every step of your device provisioning is handled.
 
 ### Hardware Sourcing
 
@@ -86,7 +86,7 @@ We discuss your team size, roles and workflows to understand exactly what hardwa
 
 ### Sourcing & Quoting
 
-We source the best devices from our vendor network and provide a clear, itemised quote, no hidden costs or surprises.
+We source the best devices from our vendor network and provide a clear, itemised estimate, no hidden costs or surprises.
 
 ### Configuration & Deployment
 
@@ -98,31 +98,31 @@ We maintain your asset register, track warranties and plan device refresh cycles
 
 ## Frequently Asked Questions
 
-### Can you source specific laptop or PC models for my team?
+Can you source specific laptop or PC models for my team?
 
 Yes. We work with a wide range of trusted vendors and can source specific makes and models to match your requirements, whether that's lightweight ultrabooks for mobile staff, powerful workstations for design teams, or cost-effective desktops for general office use. We'll recommend the best options based on each role's needs and your budget.
 
-### Do devices arrive ready to use?
+Do devices arrive ready to use?
 
 Absolutely. Every device we deploy is pre-configured before it reaches your team. The operating system is set up, your security policies are applied, business applications are installed, user accounts are created, and the device is enrolled in your management and monitoring tools. Your staff simply switch on and start working.
 
-### How do you handle warranty and asset tracking?
+How do you handle warranty and asset tracking?
 
 We maintain a full asset register for every device we provision, including serial numbers, warranty expiry dates, assigned users and purchase records. This gives you complete visibility of your IT estate and makes it easy to plan replacements, process warranty claims and track costs over time.
 
-### Can you set up devices for remote workers?
+Can you set up devices for remote workers?
 
 Yes. We configure devices with VPN access, cloud tools like Microsoft 365, and remote management agents so your remote and hybrid staff are fully supported from day one, wherever they're working. Devices can be shipped directly to remote employees if needed.
 
-### Do you offer leasing or just purchasing?
+Do you offer leasing or just purchasing?
 
 We can support both purchasing and leasing arrangements depending on your preference and budget. Leasing can help spread costs and simplify device refresh cycles, while outright purchasing may suit businesses that prefer to own their assets. We'll advise on the best approach for your situation.
 
 ## Ready to Equip Your Team?
 
-Tell us what you need and we'll put together a no-obligation quote for sourcing, configuring and deploying your new business devices.
+Tell us what you need and we'll put together a no-obligation estimate for sourcing, configuring and deploying your new business devices.
 
-[Request a Quote](https://ostechnology.uk/services/business/new-devices#contact)
+[Contact us](https://ostechnology.uk/services/business/new-devices#contact)
 
 ## Related Services
 
@@ -130,19 +130,43 @@ Tell us what you need and we'll put together a no-obligation quote for sourcing,
 
 Ongoing maintenance, troubleshooting and repair for your business laptops, desktops and peripherals.
 
+View Service →
+
 [Device Support](https://ostechnology.uk/services/business/device-support)
 
 ### IT Support
 
 Fast, friendly helpdesk support for your team, by phone, email or remote access, with on-site visits when needed.
 
+View Service →
+
 [IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Microsoft Modern Workplace
 
-Microsoft 365 and Copilot AI on your own domain, set up, migrated and managed by a certified Microsoft partner.
+Microsoft 365 and Copilot AI on your own domain, set up, migrated and managed by a Microsoft CSP indirect reseller.
+
+View Service →
 
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### Website rebuilt within 24 hours
+
+**The problem:** A slow homemade website and email running through a basic webmail service.
+
+**What we delivered:** A replacement website, Exchange email migration and Microsoft 365 Business Premium onboarding.
+
+**The result:** The website was rebuilt within 24 hours. That timeframe applies to the website rebuild, not the whole project.
+
+Read the project ↗
+
+[Website rebuilt within 24 hours](https://ostechnology.uk/blog/accountant-website-rebuild-microsoft-365-migration)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

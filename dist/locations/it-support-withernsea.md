@@ -9,6 +9,8 @@ site: OS Technology
 
 Reliable IT support for businesses in Withernsea and the Holderness coast — from the seafront to offices and shops across town. Fast, remote-first help without the wait.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-withernsea#contact)
+
 ## IT Support in Withernsea
 
 Withernsea is the main town of the Holderness coast, with a business community built around retail, hospitality and the services that keep the town running. Being further out on the coast can mean slower service from IT providers based elsewhere, which is exactly where our remote-first approach helps.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Withernsea and nearby areas including Hornsea, Patrington, Hedon, Keyingham and Hull. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Withernsea and nearby areas including Hornsea, Patrington, Hedon, Keyingham and Hull. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-withernsea#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,19 +89,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Withernsea?
+Do you provide IT support in Withernsea?
 
-Yes. We support businesses across Withernsea and the wider Holderness coast. Because we work remotely first, distance from the city is no barrier — most issues are resolved in minutes, with on-site visits when needed.
+Yes. We support businesses across Withernsea and the wider Holderness coast. Because we work remotely first, distance from the city is no barrier — we begin with remote troubleshooting where appropriate, with on-site visits when needed.
 
-### Are you a local Withernsea IT company?
+Are you a local Withernsea IT company?
 
 We’re an East Riding–focused managed IT provider. For coastal towns like Withernsea, our remote-first model is a real advantage: you get a fast response instead of waiting for an engineer to make the long trip out.
 
-### What kind of Withernsea businesses do you support?
+What kind of Withernsea businesses do you support?
 
 Office-based and independent businesses without their own IT staff, from professional offices to the office side of retail and hospitality firms. Plans range across Starter, Standard and Premium.
 
-### How much does IT support in Withernsea cost?
+How much does IT support in Withernsea cost?
 
 We charge a fixed monthly fee, so costs stay predictable. The price depends on the plan — get in touch for a free assessment.
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your Wi
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,31 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Withernsea
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Withernsea, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Hedon
+
+Explore business IT support in Hedon.
+
+Explore ↗
+
+[Hedon](https://ostechnology.uk/locations/it-support-hedon)
+
+### Hull
+
+Explore business IT support in Hull.
+
+Explore ↗
+
+[Hull](https://ostechnology.uk/locations/it-support-hull)
 
 ## Tell us what needs to work better.
 

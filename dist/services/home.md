@@ -9,6 +9,8 @@ site: OS Technology
 
 Tech playing up? Something not working? We connect remotely to sort it out. Friendly, jargon-free help from a real person, delivered straight to your device. We also source and set up new laptops and PCs, and offer optional security add-ons to keep you protected online.
 
+[Talk through your needs ↗](https://ostechnology.uk/services/home#contact)
+
 ## Technology Help That Speaks Your Language
 
 You shouldn't need a tech degree to get your devices working properly. We provide straightforward, affordable remote IT support for home users, covering everything from everyday tech problems to keeping your family safe online. All services are delivered remotely, so there's no waiting for an engineer to visit.
@@ -52,8 +54,6 @@ Need a new laptop but not sure which one? We can advise on the right device for 
   * Account creation and email configuration
   * Data transfer from your old device
   * Essential software installation
-
-What's Included
 
   * Remote IT support & troubleshooting
   * Virus & malware removal
@@ -104,7 +104,7 @@ Call, email or use our contact form below. Tell us what's going on, no technical
 
 ### Free Assessment
 
-We have a quick chat to understand your situation and give you a clear, honest quote. No hidden fees, no obligation, no pressure.
+We have a quick chat to understand your situation and give you a clear, honest estimate. No hidden fees, no obligation, no pressure.
 
 ### We Fix It Remotely
 
@@ -116,27 +116,27 @@ We explain what we did and share simple tips to stay safe going forward. Ongoing
 
 ## Frequently Asked Questions
 
-### What home services do you offer?
+What home services do you offer?
 
 Our main service is remote IT support: fixing software problems, clearing viruses, sorting update issues, installing apps and answering your tech questions. We also offer optional cybersecurity add-ons (antivirus, password manager, two-factor authentication) and can advise on, source and set up a new laptop or PC for you.
 
-### Can you help me set up a new laptop?
+Can you help me set up a new laptop?
 
 Yes. We can help you choose the right laptop for your budget, source it for you, and set it up remotely: creating your account, signing in to email, installing essential software and transferring data from your old device. You don't need to leave the house or have any technical knowledge.
 
-### Do you offer remote support for home users?
+Do you offer remote support for home users?
 
 Yes. All of our home services are delivered remotely. With your permission, we connect securely to your device and carry out the work while you watch. There's no need to drop off your computer or wait for someone to visit. Most issues are resolved in a single session.
 
-### Do I need antivirus software?
+Do I need antivirus software?
 
 Yes. While modern operating systems include basic protection, a dedicated antivirus adds important layers like real-time scanning, web protection and ransomware defence. We recommend and install trusted, lightweight solutions that protect your device without slowing it down. No bloatware, no annual upsell traps.
 
-### How much does home IT support cost?
+How much does home IT support cost?
 
-We keep it simple with two plans. **Personal** : £14.99 per month covers one computer, with round-the-clock monitoring, automatic updates, business-grade antivirus and 1 hour of remote help each month. **Family** : £24.99 per month covers up to 3 computers with all the same protection, and you can add extra computers for £5 per month each. There's a £10 one-off setup per device and a 6-month minimum.
+We keep it simple with two plans. **Personal** : £14.99 per month covers one computer, with round-the-clock monitoring, automatic updates, business-grade antivirus and 1 hour of remote help each month. **Family** : £24.99 per month covers up to 3 computers with all the same protection, and you can add extra computers for £5 per month each. There's a £10 one-off setup per device.
 
-### Can I use a home plan for a device I use for work or business?
+Can I use a home plan for a device I use for work or business?
 
 No. Our Personal and Family plans are for personal, non-business devices only. A device used for business purposes isn't covered under a home plan; please see our [business services](https://ostechnology.uk/services/business) instead. Using a home plan on a business device may result in additional charges or termination of service.
 
@@ -176,7 +176,7 @@ The same complete care, shared across the whole household's computers.
 
 [Get Started](https://ostechnology.uk/services/home#contact)
 
-£10 one-off setup per device. First month paid upfront. 6-month minimum, then rolling — just 30 days' notice to cancel.
+£10 one-off setup per device. First month paid upfront. No minimum contract term.
 
 Need a hand beyond your included hour? Plan customers pay £25/hr; one-off, pay-as-you-go help is £50/hr.
 

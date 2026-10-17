@@ -9,9 +9,7 @@ site: OS Technology
 
 Cyber attacks increasingly target small and medium businesses, not just large enterprises. Our certified engineers will check your network, Wi-Fi, devices, email, data handling and more for hidden risks, all done remotely, completely free, with no obligation.
 
-Official Partner
-
-Microsoft Partner
+[Talk through your needs ↗](https://ostechnology.uk/free-cybersecurity-audit#contact)
 
 ## Your Company Could Be at Risk, and You May Not Know It
 
@@ -103,23 +101,23 @@ We walk you through our findings in plain English, with no jargon, no scare tact
 
 ## Frequently Asked Questions
 
-### Is the audit really free, with no obligation?
+Is the audit really free, with no obligation?
 
 Yes. There's no cost and no commitment to become a client. You'll get an honest, plain-English report of what we find, and it's entirely up to you what you do with it.
 
-### What does the audit actually check?
+What does the audit actually check?
 
 We cover network and device security, Wi-Fi security, email and phishing exposure, access and password controls, data protection and basic GDPR compliance, backup and recovery readiness, software licensing and shadow IT, website security, third-party vendor access, and incident response readiness, then flag any gaps that put your business at risk.
 
-### Do you visit our office as part of the audit?
+Do you visit our office as part of the audit?
 
 No. The free audit is carried out entirely remotely, there's no site visit involved. We review your systems, network configuration and policies securely from a distance and talk you through the findings afterwards.
 
-### How long does it take and is it disruptive?
+How long does it take and is it disruptive?
 
 The audit is carried out remotely and is non-intrusive. Most reviews are completed within a few working days without any downtime or disruption to your team.
 
-### Do you work with businesses of our size?
+Do you work with businesses of our size?
 
 We work with small and medium businesses across the UK, from single-site teams to multi-location organisations. If you're unsure whether you qualify, just get in touch.
 
@@ -127,7 +125,7 @@ We work with small and medium businesses across the UK, from single-site teams t
 
 This free audit offer is available for a limited time. Find out where your business stands, before the attackers do.
 
-[Claim Your Free Audit](https://ostechnology.uk/free-cybersecurity-audit#audit)
+[Claim Your Free Audit](https://ostechnology.uk/free-cybersecurity-audit#contact)
 
 ## Tell us what needs to work better.
 

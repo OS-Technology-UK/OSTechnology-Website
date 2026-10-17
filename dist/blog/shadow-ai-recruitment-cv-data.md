@@ -7,7 +7,7 @@ site: OS Technology
 
 # Shadow AI in Recruitment: The Risk Hiding in Your CV Pile
 
-5 August 2026OS Technology team
+5 August 2026OS Technology
 
 In this article
 
@@ -41,6 +41,8 @@ You don’t have to lock everything down and lose the efficiency gains AI can ge
 ## How OS Technology can help
 
 We support [recruitment agencies across Hull and the East Riding](https://ostechnology.uk/industries/it-support-for-recruitment-agencies) with day-to-day IT support and cybersecurity, including password manager setup, two-factor authentication, endpoint protection, and Microsoft 365 support. If shadow AI hasn’t made it onto your risk register yet, now is a good time to have that conversation.
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
 
 ## Tell us what needs to work better.
 

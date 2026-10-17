@@ -9,6 +9,8 @@ site: OS Technology
 
 Fast, reliable IT support for businesses across Hull — from the city centre and Old Town to the business parks at Priory Park, Bridgehead and Kingswood. We keep your technology running so your team can get on with work.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-hull#contact)
+
 ## IT Support in Hull
 
 Hull is East Yorkshire’s largest city and commercial hub, home to everything from port and logistics operators to a growing professional services and digital sector around the Fruit Market and @TheDock. Whatever your trade, you rely on your computers, email and internet every single day, and downtime costs you money.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Hull and nearby areas including Hessle, Cottingham, Anlaby, Willerby and Beverley. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Hull and nearby areas including Hessle, Cottingham, Anlaby, Willerby and Beverley. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-hull#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,21 +89,21 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Hull?
+Do you provide IT support in Hull?
 
-Yes. We support small and medium businesses right across Hull, including the city centre, the Fruit Market, and the business parks at Priory Park, Bridgehead and Kingswood. Most issues are resolved remotely within minutes, and we arrange on-site visits across the city when hands-on work is needed.
+Yes. We support small and medium businesses right across Hull, including the city centre, the Fruit Market, and the business parks at Priory Park, Bridgehead and Kingswood. we begin with remote troubleshooting where appropriate, and we arrange on-site visits across the city when hands-on work is needed.
 
-### Are you a local Hull IT company?
+Are you a local Hull IT company?
 
 We’re an East Yorkshire–focused managed IT provider (MSP). Our remote-first model means Hull businesses get a fast response without waiting for a van to arrive, and we’re on hand for on-site work when it’s genuinely required. You get local knowledge with the responsiveness of a modern, cloud-based support desk.
 
-### What kind of Hull businesses do you support?
+What kind of Hull businesses do you support?
 
 Mostly office-based small and medium businesses — accountants, solicitors, estate agents, recruiters, agencies and similar firms — that don’t have their own in-house IT team. We offer managed plans across Starter, Standard and Premium so you only pay for the level of cover you need.
 
-### How much does IT support in Hull cost?
+How much does IT support in Hull cost?
 
-Our managed IT is priced on a fixed monthly fee, so your costs are predictable with no surprise invoices. The exact price depends on the plan you choose. Get in touch for a free assessment and a tailored quote.
+Our managed IT is priced on a fixed monthly fee, so your costs are predictable with no surprise invoices. The exact price depends on the plan you choose. Get in touch for a free assessment and a tailored estimate.
 
 ## Ready to Sort Out Your IT in Hull?
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your Hu
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,39 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Hull
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Hull, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Hessle
+
+Explore business IT support in Hessle.
+
+Explore ↗
+
+[Hessle](https://ostechnology.uk/locations/it-support-hessle)
+
+### Cottingham
+
+Explore business IT support in Cottingham.
+
+Explore ↗
+
+[Cottingham](https://ostechnology.uk/locations/it-support-cottingham)
+
+### Hedon
+
+Explore business IT support in Hedon.
+
+Explore ↗
+
+[Hedon](https://ostechnology.uk/locations/it-support-hedon)
 
 ## Tell us what needs to work better.
 

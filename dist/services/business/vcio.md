@@ -9,6 +9,8 @@ site: OS Technology
 
 Get the strategic technology leadership of a Chief Information Officer, without the six-figure salary. Your vCIO aligns your IT roadmap, budget and risk posture with where your business is actually headed.
 
+[Talk through your needs ↗](https://ostechnology.uk/services/business/vcio#contact)
+
 ## What Is a Virtual CIO?
 
 A Virtual Chief Information Officer (vCIO) gives you the strategic thinking of a CIO on a fractional basis: someone who steps back from the day-to-day tickets and asks whether your technology is actually taking the business where it needs to go. It's the layer above IT support: less "fix this printer," more "should we be budgeting for a server refresh next year, and can our current setup even support the headcount growth you're planning?"
@@ -31,9 +33,7 @@ Every quarter we sit down with you or your leadership team to review progress ag
 
 ## Standalone or Bundled with Premium
 
-vCIO is included as standard with our [Premium plan](https://ostechnology.uk/business#plans), alongside managed detection & response and elite support hours. Starter and Standard clients can also add vCIO as a standalone service if they want strategic guidance without moving their whole support contract up a tier.
-
-What's Included
+vCIO is included as standard with our [Premium plan](https://ostechnology.uk/services/business#plans), alongside managed detection & response and elite support hours. Starter and Standard clients can also add vCIO as a standalone service if they want strategic guidance without moving their whole support contract up a tier.
 
   * Quarterly strategy & business review meetings
   * 1–3 year technology roadmap
@@ -44,7 +44,7 @@ What's Included
   * Growth & scalability planning
   * Ad-hoc advisory for major decisions
 
-vCIO is included with our Premium plan, or available as a standalone add-on for Starter and Standard clients — [compare our plans](https://ostechnology.uk/business#plans).
+vCIO is included with our Premium plan, or available as a standalone add-on for Starter and Standard clients — [compare our plans](https://ostechnology.uk/services/business#plans).
 
 [Book a Strategy Call](https://ostechnology.uk/services/business/vcio#contact)
 
@@ -98,23 +98,23 @@ Your vCIO is available between reviews for major purchase decisions, risk sign-o
 
 ## Frequently Asked Questions
 
-### What is a vCIO?
+What is a vCIO?
 
 A Virtual Chief Information Officer (vCIO) provides the strategic technology leadership of a CIO, on a part-time or fractional basis. Your vCIO builds a technology roadmap tied to your business goals, plans your IT budget, manages vendors and reports to your leadership team, without the cost of a full-time executive hire.
 
-### Do I need a vCIO if I already have IT support?
+Do I need a vCIO if I already have IT support?
 
 IT support keeps your systems running day to day. A vCIO sits above that, planning where your technology needs to be in one, two or three years, and making sure spending and risk decisions support your business goals rather than just fixing what's in front of you.
 
-### Is vCIO included in your managed plans?
+Is vCIO included in your managed plans?
 
-vCIO is included as standard with our [Premium plan](https://ostechnology.uk/business#plans). Starter and Standard clients can add vCIO as a standalone service. Contact us for a tailored quote.
+vCIO is included as standard with our [Premium plan](https://ostechnology.uk/services/business#plans). Starter and Standard clients can add vCIO as a standalone service. Contact us for a tailored estimate.
 
-### How often will we meet with our vCIO?
+How often will we meet with our vCIO?
 
 Premium plan clients get quarterly strategy and business review meetings as standard, with ad-hoc advisory support available in between for major purchases, risk decisions or leadership meetings. Meeting frequency can be increased for businesses going through rapid change.
 
-### Is vCIO only for larger companies?
+Is vCIO only for larger companies?
 
 No. Most of our vCIO clients are small and medium businesses that need strategic technology guidance but aren't ready to hire a full-time CIO. It's built to scale down to the needs and budget of a growing SMB.
 
@@ -130,19 +130,43 @@ Book a free strategy call to see how a vCIO can align your technology with your 
 
 Proactive monitoring, helpdesk support and maintenance for a fixed monthly fee, the foundation your vCIO builds on.
 
+View Service →
+
 [IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Audits, endpoint protection and incident response, informed by the risk register your vCIO maintains.
 
+View Service →
+
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
 ### Microsoft Modern Workplace
 
-Microsoft 365 and Copilot AI, set up, managed and supported by our certified Microsoft team.
+Microsoft 365 and Copilot AI, set up, managed and supported by our Microsoft 365 specialists.
+
+View Service →
 
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### Ten domains. One Microsoft 365 tenant.
+
+**The problem:** Business email spread across several providers and ten domains.
+
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
+
+**The result:** One place to manage business email and account access.
+
+Read the project ↗
+
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

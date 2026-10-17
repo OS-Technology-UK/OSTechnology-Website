@@ -9,6 +9,8 @@ site: OS Technology
 
 Confidential, secure IT support for solicitors and law firms. We manage your Microsoft 365, devices, cybersecurity and backup so your practice stays protected, compliant-ready and always available.
 
+[Talk through your needs ↗](https://ostechnology.uk/industries/it-support-for-solicitors#contact)
+
 ## IT Support for Solicitors
 
 Law firms handle highly confidential client information and are held to strict professional standards. Whether you’re a high-street practice or a growing firm, you need technology that keeps client data secure, protects confidentiality and simply doesn’t let you down, without the cost of an in-house IT team.
@@ -23,8 +25,6 @@ A law firm can’t afford downtime or lost files. We keep your systems proactive
 
 Protecting client confidentiality is central to everything a law firm does. We help you safeguard it with secure email, multi-factor authentication, encrypted devices, managed backup with sensible retention, and staff security awareness, giving you a strong, defensible security posture and supporting your data protection obligations.
 
-What’s Included
-
   * Microsoft 365 & email management
   * Cybersecurity & endpoint protection
   * Managed cloud backup
@@ -34,7 +34,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans). Microsoft 365 licences are billed separately.
+Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans). Microsoft 365 licences are billed separately.
 
 [Get a Free Assessment](https://ostechnology.uk/industries/it-support-for-solicitors#contact)
 
@@ -44,7 +44,7 @@ A complete IT function for your firm: predictable costs, proactive protection, e
 
 ### Microsoft 365 & Email
 
-Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team, so email and collaboration just work.
+Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists, so email and collaboration just work.
 
 ### Cybersecurity
 
@@ -60,7 +60,7 @@ We supply, set up and support the laptops and PCs your team relies on, so everyo
 
 ### Helpdesk Support
 
-A friendly helpdesk your staff can contact for day-to-day issues, with most problems resolved remotely in minutes.
+A friendly helpdesk your staff can contact for day-to-day issues, with remote troubleshooting where appropriate.
 
 ### Secure Remote & Hybrid Working
 
@@ -88,19 +88,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### How do you protect client confidentiality?
+How do you protect client confidentiality?
 
 We layer up protection with secure email, multi-factor authentication, encrypted devices, managed backup and ongoing security monitoring, helping you safeguard confidential client information and meet your data protection responsibilities.
 
-### Can you help with secure remote and hybrid working?
+Can you help with secure remote and hybrid working?
 
 Yes. We set up secure access to Microsoft 365 and your systems so fee earners can work safely from court, home or client sites, with company data protected on every device.
 
-### Can you take over from our current IT provider or setup?
+Can you take over from our current IT provider or setup?
 
 Absolutely. We handle smooth transitions from an existing provider or an in-house arrangement: we audit and document your environment and onboard your team with minimal disruption to the firm.
 
-### Do we need our own in-house IT?
+Do we need our own in-house IT?
 
 Most small and medium firms don’t. For a fixed monthly fee we act as your complete outsourced IT department, usually far more cost-effective than employing IT staff, with a whole team behind you.
 
@@ -116,11 +116,15 @@ Book a free IT assessment and see how straightforward it is to hand your IT to a
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep client data protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -128,7 +132,21 @@ Endpoint protection, security audits and incident response to keep client data p
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## IT that supports solicitors & law firms
+
+We support Microsoft 365, devices, security, backup and connectivity. Your specialist business applications remain supported by their vendors; we can coordinate infrastructure troubleshooting with them.
+
+### Matter files and staff access
+
+Keep shared files organised with access appropriate to the work being done. Review permissions when people change roles or leave.
+
+### Email and payment requests
+
+Protect sign-ins and help staff recognise suspicious links or unexpected changes to payment details. Keep recovery options documented.
 
 ## Tell us what needs to work better.
 

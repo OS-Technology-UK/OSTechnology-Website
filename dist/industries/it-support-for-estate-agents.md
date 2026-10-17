@@ -9,6 +9,8 @@ site: OS Technology
 
 Reliable IT support for estate and letting agents. We keep your Microsoft 365, email, devices and security working across every branch and out on the road, so your team never misses an opportunity.
 
+[Talk through your needs ↗](https://ostechnology.uk/industries/it-support-for-estate-agents#contact)
+
 ## IT Support for Estate & Letting Agents
 
 Estate and letting agency is fast-moving and rarely desk-bound. Your negotiators are out at viewings, valuations and inspections, often across multiple branches, and they need email, files and systems to work reliably wherever they are. A missed email or a laptop that won’t connect can mean a missed instruction.
@@ -23,8 +25,6 @@ Your team rarely sits still, so we make sure they can work from anywhere. Fully 
 
 For agents, email deliverability really matters — property alerts and client updates need to land in inboxes, not spam folders. As part of managing your Microsoft 365 we configure your email properly and securely, and protect your team with endpoint security, multi-factor authentication and managed backup across every branch and device.
 
-What’s Included
-
   * Microsoft 365 & email management
   * Cybersecurity & endpoint protection
   * Managed cloud backup
@@ -34,7 +34,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans). Microsoft 365 licences are billed separately.
+Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans). Microsoft 365 licences are billed separately.
 
 [Get a Free Assessment](https://ostechnology.uk/industries/it-support-for-estate-agents#contact)
 
@@ -44,7 +44,7 @@ A complete IT function for your firm: predictable costs, proactive protection, e
 
 ### Microsoft 365 & Email
 
-Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team, so email and collaboration just work.
+Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists, so email and collaboration just work.
 
 ### Cybersecurity
 
@@ -60,7 +60,7 @@ We supply, set up and support the laptops and PCs your team relies on, so everyo
 
 ### Helpdesk Support
 
-A friendly helpdesk your staff can contact for day-to-day issues, with most problems resolved remotely in minutes.
+A friendly helpdesk your staff can contact for day-to-day issues, with remote troubleshooting where appropriate.
 
 ### Secure Remote & Hybrid Working
 
@@ -88,19 +88,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Can you support multiple branches?
+Can you support multiple branches?
 
 Yes. We manage IT consistently across all your branches through Microsoft 365 and centrally managed devices and security, so every office works the same way and staff can move between them seamlessly.
 
-### Can our negotiators work securely while out of the office?
+Can our negotiators work securely while out of the office?
 
 Absolutely. We set up secure access to email and systems on managed devices, so your team can work safely from viewings, valuations and home without putting company or client data at risk.
 
-### Can you help when we open a new branch or take on staff?
+Can you help when we open a new branch or take on staff?
 
 Yes. We provision and set up devices and Microsoft 365 accounts for new offices and new starters so they’re productive and secure from day one, and we scale your IT with you as you grow.
 
-### Do we need our own in-house IT?
+Do we need our own in-house IT?
 
 Most agencies don’t. For a fixed monthly fee we provide a complete outsourced IT function, typically far more cost-effective than employing IT staff, and available whenever your team needs help.
 
@@ -116,11 +116,15 @@ Book a free IT assessment and see how straightforward it is to hand your IT to a
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep client data protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -128,7 +132,21 @@ Endpoint protection, security audits and incident response to keep client data p
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## IT that supports estate & letting agents
+
+We support Microsoft 365, devices, security, backup and connectivity. Your specialist business applications remain supported by their vendors; we can coordinate infrastructure troubleshooting with them.
+
+### Working between office and viewings
+
+Manage laptops, mobile access and shared business email so staff can work with the same information away from the office.
+
+### Customer documents
+
+Use controlled sharing for identity documents and tenancy files, with account access reviewed when staff leave.
 
 ## Tell us what needs to work better.
 

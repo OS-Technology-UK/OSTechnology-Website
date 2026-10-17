@@ -35,9 +35,30 @@ Make it easier for local customers to find you in Google Search and Maps, with t
 
 When details change, you are not left trying to work out hosting, email settings or DNS records alone. We remain your point of contact for the technical side.
 
-## Web services starting from £10 per month.
+### Explore the right service for you
 
-Every business needs something a little different, so we scope website work around your goals, content and functionality rather than pushing you into a package that does not fit. You will receive a clear quote for the build before any work begins. Monthly web services, including hosting and the technical foundations, start from £10 per month.
+  * [Website design ↗](https://ostechnology.uk/services/business/website-design)
+  * [Business email setup ↗](https://ostechnology.uk/services/business/business-email)
+  * [Microsoft 365 migration ↗](https://ostechnology.uk/services/business/microsoft-365-migration)
+  * [Hosting & domain management ↗](https://ostechnology.uk/services/business/hosting-domains)
+
+## Simple business websites from £100
+
+A one-off starting build price for one responsive brochure page, using your supplied content, with business information and contact details.
+
+**OS Technology hosting is required from £10/month.** Domains and email cost extra. No VAT is charged.
+
+Additional pages, enquiry forms, functionality and content creation are estimated separately. We agree the scope and costs before work starts.
+
+### Complete business setup — tailored estimate
+
+A website, domain, professional email, Google Business Profile and the technical configuration needed to bring them together.
+
+### Existing website modernisation — tailored estimate
+
+Replace an outdated website, move email where needed and organise disconnected services around clear business ownership.
+
+[Contact us ↗](https://ostechnology.uk/services/business/web-presence#contact)
 
 ## Simple from first conversation to launch.
 
@@ -47,7 +68,7 @@ Tell us what you do, who you want to reach and what you already have. A rough id
 
 ### Get a clear recommendation
 
-We outline the right next steps, explain the options plainly and provide a tailored quote for any website build.
+We outline the right next steps, explain the options plainly and provide a tailored estimate for any website build.
 
 ### Launch with the basics covered
 
@@ -57,7 +78,7 @@ We connect the website, email, domain and Google profile, then stay available wh
 
 Perhaps you have a domain but no website, use a personal email address, or have a site that needs bringing up to date. We can pick up from there, including moving services from an existing provider where appropriate.
 
-[Ask for a tailored quote ↗](https://ostechnology.uk/services/business/web-presence#contact)
+[Contact us ↗](https://ostechnology.uk/services/business/web-presence#contact)
 
 ## Tell us what needs to work better.
 

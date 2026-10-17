@@ -9,6 +9,8 @@ site: OS Technology
 
 Local, dependable IT support for businesses in Beverley — from the professional firms around Saturday Market and Flemingate to independent offices across the county town. Proactive, jargon-free, and built around your business.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-beverley#contact)
+
 ## IT Support in Beverley
 
 Beverley is the historic county town of the East Riding and a thriving base for professional services: solicitors, accountants, financial advisers and independent firms clustered around the Minster, Flemingate and the town centre. These are exactly the kinds of office-based businesses that depend on reliable, secure IT but rarely need (or want) a full-time IT hire.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Beverley and nearby areas including Molescroft, Woodmansey, Tickton, Cottingham and Hull. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Beverley and nearby areas including Molescroft, Woodmansey, Tickton, Cottingham and Hull. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-beverley#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,21 +89,21 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Beverley?
+Do you provide IT support in Beverley?
 
 Yes — Beverley and the surrounding East Riding are core to the area we serve. We support businesses throughout the town, from Flemingate and Saturday Market to the surrounding villages, with fast remote support and on-site visits when needed.
 
-### Are you a local Beverley IT company?
+Are you a local Beverley IT company?
 
 We’re a UK-registered managed IT provider focused on the East Riding, including Beverley. Our remote-first approach means Beverley firms get quick answers without waiting for an engineer to drive out, and we come on-site when a job genuinely needs it.
 
-### What kind of Beverley businesses do you support?
+What kind of Beverley businesses do you support?
 
 Office-based professional firms are our sweet spot: accountants, solicitors, estate agents, financial advisers, recruiters and similar Beverley businesses that want reliable, secure IT without hiring their own technician.
 
-### How much does IT support in Beverley cost?
+How much does IT support in Beverley cost?
 
-IT support is charged on a fixed monthly fee, giving you full budget certainty. Pricing depends on the plan — contact us for a free assessment and a clear quote.
+IT support is charged on a fixed monthly fee, giving you full budget certainty. Pricing depends on the plan — contact us for a free assessment and a clear estimate.
 
 ## Ready to Sort Out Your IT in Beverley?
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your Be
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,39 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Beverley
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Beverley, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Cottingham
+
+Explore business IT support in Cottingham.
+
+Explore ↗
+
+[Cottingham](https://ostechnology.uk/locations/it-support-cottingham)
+
+### Hull
+
+Explore business IT support in Hull.
+
+Explore ↗
+
+[Hull](https://ostechnology.uk/locations/it-support-hull)
+
+### Driffield
+
+Explore business IT support in Driffield.
+
+Explore ↗
+
+[Driffield](https://ostechnology.uk/locations/it-support-driffield)
 
 ## Tell us what needs to work better.
 

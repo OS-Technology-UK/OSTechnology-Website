@@ -5,91 +5,111 @@ url: "https://ostechnology.uk/locations"
 site: OS Technology
 ---
 
-# IT Support Across East Riding of Yorkshire
+# Business IT across the East Riding.
 
-Wherever you are in the East Riding of Yorkshire, OS Technology has you covered. We’re remote-first, so businesses across the region get fast support without waiting for an engineer, and we come on-site when a job needs it. Choose your town below to learn more.
+Based in Beverley, with remote support across the region and arranged on-site work when needed. Explore your local coverage below.
 
-## Local IT Support Near You
+[Talk through your needs ↗](https://ostechnology.uk/locations#contact)
 
-We support businesses throughout the East Riding. Select your town for local IT support details.
+## Local context. Connected support.
+
+Based in Beverley, supporting East Riding businesses and providing remote support across the UK.
 
 ### Hull
 
-Managed IT support for businesses in Hull and the surrounding area.
+Remote business IT support and arranged on-site work in Hull.
+
+Explore ↗
 
 [Hull](https://ostechnology.uk/locations/it-support-hull)
 
 ### Beverley
 
-Managed IT support for businesses in Beverley and the surrounding area.
+Remote business IT support and arranged on-site work in Beverley.
+
+Explore ↗
 
 [Beverley](https://ostechnology.uk/locations/it-support-beverley)
 
 ### Bridlington
 
-Managed IT support for businesses in Bridlington and the surrounding area.
+Remote business IT support and arranged on-site work in Bridlington.
+
+Explore ↗
 
 [Bridlington](https://ostechnology.uk/locations/it-support-bridlington)
 
 ### Goole
 
-Managed IT support for businesses in Goole and the surrounding area.
+Remote business IT support and arranged on-site work in Goole.
+
+Explore ↗
 
 [Goole](https://ostechnology.uk/locations/it-support-goole)
 
 ### Driffield
 
-Managed IT support for businesses in Driffield and the surrounding area.
+Remote business IT support and arranged on-site work in Driffield.
+
+Explore ↗
 
 [Driffield](https://ostechnology.uk/locations/it-support-driffield)
 
 ### Cottingham
 
-Managed IT support for businesses in Cottingham and the surrounding area.
+Remote business IT support and arranged on-site work in Cottingham.
+
+Explore ↗
 
 [Cottingham](https://ostechnology.uk/locations/it-support-cottingham)
 
 ### Hessle
 
-Managed IT support for businesses in Hessle and the surrounding area.
+Remote business IT support and arranged on-site work in Hessle.
+
+Explore ↗
 
 [Hessle](https://ostechnology.uk/locations/it-support-hessle)
 
-### Pocklington
-
-Managed IT support for businesses in Pocklington and the surrounding area.
-
-[Pocklington](https://ostechnology.uk/locations/it-support-pocklington)
-
-### Withernsea
-
-Managed IT support for businesses in Withernsea and the surrounding area.
-
-[Withernsea](https://ostechnology.uk/locations/it-support-withernsea)
-
-### Hedon
-
-Managed IT support for businesses in Hedon and the surrounding area.
-
-[Hedon](https://ostechnology.uk/locations/it-support-hedon)
-
 ### Howden
 
-Managed IT support for businesses in Howden and the surrounding area.
+Remote business IT support and arranged on-site work in Howden.
+
+Explore ↗
 
 [Howden](https://ostechnology.uk/locations/it-support-howden)
 
 ### Market Weighton
 
-Managed IT support for businesses in Market Weighton and the surrounding area.
+Remote business IT support and arranged on-site work in Market Weighton.
+
+Explore ↗
 
 [Market Weighton](https://ostechnology.uk/locations/it-support-market-weighton)
 
-## Not Sure If We Cover Your Area?
+### Pocklington
 
-If your town isn’t listed, don’t worry — we support businesses right across the East Riding and beyond. Get in touch and we’ll let you know how we can help.
+Remote business IT support and arranged on-site work in Pocklington.
 
-[Book a Free IT Assessment](https://ostechnology.uk/locations#contact)
+Explore ↗
+
+[Pocklington](https://ostechnology.uk/locations/it-support-pocklington)
+
+### Hedon
+
+Remote business IT support and arranged on-site work in Hedon.
+
+Explore ↗
+
+[Hedon](https://ostechnology.uk/locations/it-support-hedon)
+
+### Withernsea
+
+Remote business IT support and arranged on-site work in Withernsea.
+
+Explore ↗
+
+[Withernsea](https://ostechnology.uk/locations/it-support-withernsea)
 
 ## Tell us what needs to work better.
 

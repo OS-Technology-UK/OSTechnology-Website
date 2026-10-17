@@ -7,7 +7,7 @@ site: OS Technology
 
 # Ideas for safer, simpler technology.
 
-Practical guidance on IT support, cybersecurity and Microsoft 365, written for UK businesses and home users.
+Practical guidance on business IT, cybersecurity and Microsoft 365.
 
 Microsoft 3651 September 2026
 

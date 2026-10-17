@@ -7,7 +7,7 @@ site: OS Technology
 
 # One Entrepreneur, Ten Inboxes: Consolidating Multiple Business Email Domains Into One Microsoft 365 Tenant
 
-4 August 2026OS Technology team
+4 August 2026OS Technology
 
 In this article
 
@@ -68,6 +68,20 @@ You don’t need to be running ten companies for this to apply. Worth a proper l
 Any one of these on its own is manageable. Several of them together, especially across multiple domains, is exactly the kind of quiet risk and unnecessary cost that tends to go unnoticed until something forces the issue, a leaver who shouldn’t still have access, a phishing email that got through because one domain never had proper filtering, or simply the invoices finally getting added up. If you’d like a second opinion on whether your setup still makes sense as your business has grown, that’s exactly the kind of question our [vCIO service](https://ostechnology.uk/services/business/vcio) is built to answer.
 
 _Update: while we were working on this project, we also took a look at the client’s other business accounts.[Read the follow-up on tidying up their password management](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)._
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
+
+## More documented projects
+
+Explore our website, email and password management work.
+
+[Browse case studies ↗](https://ostechnology.uk/case-studies)
+
+## Help with your own setup
+
+  * [Business email setup ↗](https://ostechnology.uk/services/business/business-email)
+  * [Microsoft 365 migration ↗](https://ostechnology.uk/services/business/microsoft-365-migration)
+  * [Hosting & domain management ↗](https://ostechnology.uk/services/business/hosting-domains)
 
 ## Tell us what needs to work better.
 

@@ -1,55 +1,89 @@
 ---
-title: "About OS Technology | Complete IT Services for UK Businesses"
-description: "OS Technology is your single IT partner for everything - managed support, cybersecurity, Microsoft 365, cloud, devices, and web presence, all in one place for UK businesses."
+title: "About OS Technology | Small Business Technology from Beverley"
+description: "Websites, business email, Microsoft 365, hosting and ongoing IT support from OS Technology in Beverley, East Yorkshire."
 url: "https://ostechnology.uk/about"
 site: OS Technology
 ---
 
-# Everything IT. One partner.
+# Your business technology. One provider.
 
-OS Technology covers the full picture - managed support, cybersecurity, Microsoft 365, cloud, device provision, and web presence. Instead of juggling multiple suppliers, you get one team who understands your whole setup.
+Helping small businesses establish, manage and improve their digital setup, from their first website to ongoing support.
 
-## Built to be the only IT partner you need
+[Talk through your needs ↗](https://ostechnology.uk/about#contact)
 
-We started OS Technology because we saw too many businesses dealing with the same problem: separate vendors for support, another for security, someone else for Microsoft 365, and nobody who could see the full picture. Every time something broke, the blame got passed around. Nothing ever quite got resolved.
+## Clear responsibility for the technology you rely on.
 
-So we built something different. OS Technology handles everything IT - from sourcing and deploying your devices, to managing your Microsoft 365 environment, securing your network, hosting your web presence, and being there when something goes wrong. One team, one relationship, one point of accountability.
+OS Technology helps small businesses establish, manage and improve their digital infrastructure. From launching a new website and setting up professional email to managing Microsoft 365, securing business systems and providing ongoing IT support, we bring everything together under one roof.
 
-We're based in East Riding of Yorkshire and support businesses locally and across the UK. We're upfront about what things cost and realistic about what we can do. Most of our clients stick around, which we think says more than anything on this page.
+Based in Beverley, East Yorkshire, we work with businesses locally and throughout the UK, providing straightforward advice, practical solutions and clear pricing.
 
-[Get in Touch](https://ostechnology.uk/#contact)
+These services often grow separately. Domains sit with one supplier, email with another, and device support starts only when something breaks. We bring that setup into focus, with clear ownership and a practical plan for looking after it.
 
-## What working with us looks like
+As a Microsoft CSP indirect reseller, we can supply Microsoft cloud subscriptions and help configure and support the environment around them.
 
-### You'll speak to a real person
+You should know what work is included, what it costs and who to contact. We explain the options in plain English and agree the scope before work begins.
 
-No call centres, no bots. People who know your setup.
+## Understand. Stabilise. Improve.
 
-### Straight answers
+### Understand your setup
 
-We'll tell you what's actually wrong and what it'll take to fix it. If you don't need something, we'll say so. No jargon, no runaround.
+Start with your people, accounts, devices and the way the business works.
 
-### Clear pricing
+### Agree the next steps
 
-You'll know what something costs before we start. No surprise bills, no add-ons you didn't ask for.
+Prioritise immediate problems and risks, with a written scope and clear costs.
 
-### One team across everything
+### Keep it manageable
 
-Certified Microsoft Partner with hands-on experience across IT support, networking, security, cloud, and web. No hand-offs between suppliers - we own the whole picture.
+Document ownership, support the day-to-day setup and plan useful improvements.
 
-### Fixed properly
+## Recent work. Real business improvements.
 
-We take the time to diagnose correctly rather than patch things temporarily. If a problem keeps coming back, something wasn't actually fixed.
+Website, Microsoft 365 and account security improvements from individual projects.
 
-### Security included
+### Website rebuilt within 24 hours
 
-Good security practice is part of the job, not an upsell. We build it in from the start across everything we do, with extra protection where needed.
+**The problem:** A slow homemade website and email running through a basic webmail service.
 
-## Ready to simplify your IT?
+**What we delivered:** A replacement website, Exchange email migration and Microsoft 365 Business Premium onboarding.
 
-Tell us where you are and what you need - we'll be straight with you about what makes sense and what it'll cost.
+**The result:** The website was rebuilt within 24 hours. That timeframe applies to the website rebuild, not the whole project.
 
-[Book a Free Consultation](https://ostechnology.uk/#contact)
+Read the project ↗
+
+[Website rebuilt within 24 hours](https://ostechnology.uk/blog/accountant-website-rebuild-microsoft-365-migration)
+
+### Ten domains. One Microsoft 365 tenant.
+
+**The problem:** Business email spread across several providers and ten domains.
+
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
+
+**The result:** One place to manage business email and account access.
+
+Read the project ↗
+
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
+
+### 20+ logins moved into a password manager
+
+**The problem:** The same client’s business logins were scattered, with around half stored in a plain-text document.
+
+**What we delivered:** Moving the 20+ business logins into a password manager.
+
+**The result:** Business credentials brought together instead of left in scattered storage.
+
+Read the project ↗
+
+[20+ logins moved into a password manager](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
+
+## Personal technology support remains available.
+
+Remote help for personal computers, setup and online security, with existing Personal and Family support plans.
+
+[Explore Home Support ↗](https://ostechnology.uk/services/home)
 
 ## Tell us what needs to work better.
 

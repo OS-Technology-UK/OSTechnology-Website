@@ -1,13 +1,15 @@
 ---
 title: "Microsoft Modern Workplace | Microsoft 365 & Copilot AI | OS Technology"
-description: "Microsoft Modern Workplace from OS Technology: Microsoft 365, Teams and Copilot AI set up and managed by a certified Microsoft partner, keeping your people productive, secure and at the forefront of modern business practices."
+description: "Microsoft Modern Workplace from OS Technology: Microsoft 365, Teams and Copilot AI set up and managed by a Microsoft CSP indirect reseller, keeping your people productive, secure and at the forefront of modern business practices."
 url: "https://ostechnology.uk/services/business/modern-workplace"
 site: OS Technology
 ---
 
 # Microsoft Modern Workplace
 
-Microsoft 365, Teams and Copilot AI, deployed and managed by a certified Microsoft partner. Our vision is simple: keep your people at the forefront of modern business practices, working from anywhere, on secure and familiar tools, with AI built in rather than bolted on.
+Microsoft 365, Teams and Copilot AI, deployed and managed by a Microsoft CSP indirect reseller. Our vision is simple: keep your people at the forefront of modern business practices, working from anywhere, on secure and familiar tools, with AI built in rather than bolted on.
+
+[Talk through your needs ↗](https://ostechnology.uk/services/business/modern-workplace#contact)
 
 ## Why Microsoft Modern Workplace?
 
@@ -41,13 +43,11 @@ Public, consumer AI tools are convenient, but pasting client details or confiden
 
 As part of our Managed IT service, we take care of your Modern Workplace admin on an ongoing basis, adding new users when you hire, removing leavers, managing licences and security policies, administering Intune-enrolled devices, and acting as your helpdesk for any Microsoft 365 or Copilot queries.
 
-Microsoft 365 and Copilot licences are billed separately from our management fee — see our [managed plans](https://ostechnology.uk/business#plans) for support pricing.
+Microsoft 365 and Copilot licences are billed separately from our management fee — see our [managed plans](https://ostechnology.uk/services/business#plans) for support pricing.
 
 ## Training & Onboarding
 
 We offer practical, jargon-free remote training sessions for your team covering Outlook, Teams, SharePoint, OneDrive, the Office apps and Copilot AI. We focus on the workflows that matter to your business, not generic tutorials.
-
-What's Included
 
   * Outlook email on your domain
   * OneDrive & SharePoint
@@ -62,9 +62,9 @@ What's Included
   * Staff training & onboarding
   * Ongoing admin & support
 
-Microsoft 365 and Copilot licences are billed separately from our management fee. [Compare our plans](https://ostechnology.uk/business#plans).
+Microsoft 365 and Copilot licences are billed separately from our management fee. [Compare our plans](https://ostechnology.uk/services/business#plans).
 
-[Get a Free Quote](https://ostechnology.uk/services/business/modern-workplace#contact)
+[Contact us](https://ostechnology.uk/services/business/modern-workplace#contact)
 
 ## Everything in Our Modern Workplace Service
 
@@ -116,33 +116,33 @@ We're your Modern Workplace admin on an ongoing basis, adding users, managing li
 
 ## Frequently Asked Questions
 
-### What is Microsoft Modern Workplace?
+What is Microsoft Modern Workplace?
 
 Microsoft Modern Workplace is our name for the combination of Microsoft 365 and Microsoft Copilot AI: Outlook email on your own domain, OneDrive and SharePoint, Microsoft Teams, the full desktop Office apps, enterprise-grade security, and AI built directly into the tools your team already uses. It's how we help established, professional and growing businesses keep their people productive, secure and working the modern way.
 
-### Can you migrate us from Google Workspace or another email system?
+Can you migrate us from Google Workspace or another email system?
 
 Yes. We handle full migrations from Google Workspace, legacy email providers (cPanel, GoDaddy, IMAP) and on-premise Exchange. We migrate emails, contacts, calendars and files into Microsoft 365 with zero data loss and minimal disruption to your day-to-day work.
 
-### Is it safe to use Copilot AI with confidential business or client data?
+Is it safe to use Copilot AI with confidential business or client data?
 
 It depends entirely on which tool you use. Pasting client details or confidential information into public consumer AI tools is a real risk, you often don't know where that data goes. Microsoft 365 Copilot is different: it operates within your existing Microsoft 365 tenant boundary and, under Microsoft's current commercial data protection terms, does not use your organisation's prompts or data to train its underlying AI models. We configure it properly and advise your team on what's safe to use it for.
 
-### Will Microsoft 365 and Copilot put us at risk of breaching GDPR?
+Will Microsoft 365 and Copilot put us at risk of breaching GDPR?
 
 We help you configure Microsoft 365 and Copilot, and set up practices that support your UK GDPR obligations, including a simple AI usage policy for staff where needed. We're not a law firm, so for complex compliance needs we'd always recommend also involving your own legal or data protection adviser, but we make sure the technical side is set up properly.
 
-### Do you provide remote training for staff?
+Do you provide remote training for staff?
 
 Yes. We offer tailored remote onboarding and training sessions covering Outlook, Teams, SharePoint, OneDrive, the Office apps and Copilot AI. We focus on the workflows relevant to your business, not generic product walkthroughs, so your team is productive from day one.
 
-### What ongoing support do you provide after setup?
+What ongoing support do you provide after setup?
 
 We offer ongoing management as part of our Managed IT (MSP) service, adding and removing users, managing security and compliance policies, configuring SharePoint and Teams, managing devices with Intune, monitoring licence usage, and providing helpdesk support for any day-to-day queries your team has, including Copilot.
 
 ## Ready to Give Your Team a Modern Workplace?
 
-Book a free consultation. We'll recommend the right plan, scope the setup and give you a clear, upfront quote, no jargon, no pressure.
+Book a free consultation. We'll recommend the right plan, scope the setup and give you a clear, upfront estimate, no jargon, no pressure.
 
 [Book a Free Consultation](https://ostechnology.uk/services/business/modern-workplace#contact)
 
@@ -152,13 +152,47 @@ Book a free consultation. We'll recommend the right plan, scope the setup and gi
 
 Fast, friendly helpdesk support for your team, by phone, email or remote access, with on-site visits when needed.
 
+View Service →
+
 [IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Security audits, endpoint protection and staff training to keep your business safe from modern threats.
 
+View Service →
+
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### Website rebuilt within 24 hours
+
+**The problem:** A slow homemade website and email running through a basic webmail service.
+
+**What we delivered:** A replacement website, Exchange email migration and Microsoft 365 Business Premium onboarding.
+
+**The result:** The website was rebuilt within 24 hours. That timeframe applies to the website rebuild, not the whole project.
+
+Read the project ↗
+
+[Website rebuilt within 24 hours](https://ostechnology.uk/blog/accountant-website-rebuild-microsoft-365-migration)
+
+### Ten domains. One Microsoft 365 tenant.
+
+**The problem:** Business email spread across several providers and ten domains.
+
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
+
+**The result:** One place to manage business email and account access.
+
+Read the project ↗
+
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

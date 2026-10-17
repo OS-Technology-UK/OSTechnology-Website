@@ -1,103 +1,101 @@
 ---
-title: "UK Based IT Support & Managed IT Services | OS Technology"
-description: "Microsoft 365 MSP and IT support for home users and growing businesses across East Riding of Yorkshire and the UK. Honest pricing, no jargon."
+title: "OS Technology | Websites, Microsoft 365 & IT Services"
+description: "Website design, professional business email, Microsoft 365, hosting and IT support for small businesses. Based in Beverley, serving East Yorkshire and the UK."
 url: "https://ostechnology.uk/"
 site: OS Technology
 ---
 
-# Straightforward IT support, _built around you._
+# Get online. _Get on with business._
 
-From one stubborn laptop to the technology behind a growing team. Clear advice, responsive support and security that holds up.
+Websites, professional email, Microsoft 365, hosting, cybersecurity and IT support. Everything your business needs to establish its online presence and keep things running smoothly, all from one provider.
 
-[Find the right support ↓](https://ostechnology.uk/#support-finder)[Talk to a person ↗](https://ostechnology.uk/#contact)
+[Contact us ↗](https://ostechnology.uk/#contact)[Explore Services ↗](https://ostechnology.uk/services/business)
 
-What changes when your IT is properly looked after?
+Looking after personal devices? [Explore Home Support ↗](https://ostechnology.uk/services/home)
 
-  * **Less downtime** Problems are handled before they derail the day.
-  * **One accountable partner** Devices, Microsoft 365, security and web.
-  * **Clear next steps** Plain English, written scope and predictable costs.
+What you can expect
 
-Based in Beverley
+  * **Get properly set up** Your website, email and domains working together.
+  * **Clear next steps** A written scope and understandable costs.
+  * **One place to turn** Project work and ongoing technology support.
 
-Supporting clients UK-wide
+[01 · Project result**Website rebuilt within 24 hours**](https://ostechnology.uk/blog/accountant-website-rebuild-microsoft-365-migration)[02 · Project result**Ten domains. One Microsoft 365 tenant.**](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
 
-Home and business
+## Everything your business needs, in one place.
 
-Microsoft partner
+Get established online, bring your services together and keep your technology working.
 
-## One partner for the technology your business depends on.
+### Websites & Digital Presence
 
-Practical support for today’s problems, with the planning and protection to prevent tomorrow’s.
+Professional websites, domains, Google Business Profiles and hosting.
 
-### Managed IT support
+[Websites & Digital Presence](https://ostechnology.uk/services/business/web-presence)
 
-A responsive helpdesk, proactive monitoring and dependable day-to-day support for your whole team.
+### Business Email & Microsoft 365
 
-[Managed IT support](https://ostechnology.uk/services/business/it-support)
+Professional email, migrations, Microsoft 365 and secure setup.
 
-### Microsoft 365
+[Business Email & Microsoft 365](https://ostechnology.uk/services/business/business-email)
 
-Email, Teams, SharePoint, migrations and Copilot configured securely around the way you work.
+### Hosting & Managed Services
 
-[Microsoft 365](https://ostechnology.uk/services/business/modern-workplace)
+Reliable hosting, DNS management and ongoing technical maintenance.
 
-### Cybersecurity
+[Hosting & Managed Services](https://ostechnology.uk/services/business/hosting-domains)
 
-Practical protection across devices, email, identities and staff — without fear-driven jargon.
+### IT Support & Cybersecurity
 
-[Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
+Practical support, device management and security for small businesses.
 
-### Devices & deployment
+[IT Support & Cybersecurity](https://ostechnology.uk/services/business/it-support)
 
-The right laptops and equipment, sourced, configured and ready for work from day one.
+## Recent work. Real business improvements.
 
-[Devices & deployment](https://ostechnology.uk/services/business/new-devices)
+Website, Microsoft 365 and account security improvements from individual projects.
 
-### Web presence
+### Website rebuilt within 24 hours
 
-Fast, credible websites, dependable hosting and ongoing technical support under one roof.
+**The problem:** A slow homemade website and email running through a basic webmail service.
 
-[Web presence](https://ostechnology.uk/services/business/web-presence)
+**What we delivered:** A replacement website, Exchange email migration and Microsoft 365 Business Premium onboarding.
 
-### Technology strategy
+**The result:** The website was rebuilt within 24 hours. That timeframe applies to the website rebuild, not the whole project.
 
-A clear technology roadmap, sensible budgeting and senior guidance as your organisation grows.
+Read the project ↗
 
-[Technology strategy](https://ostechnology.uk/services/business/vcio)
+[Website rebuilt within 24 hours](https://ostechnology.uk/blog/accountant-website-rebuild-microsoft-365-migration)
 
-## Two choices. One clear next step.
+### Ten domains. One Microsoft 365 tenant.
 
-You do not need to diagnose the problem before getting in touch.
+**The problem:** Business email spread across several providers and ten domains.
 
-Step 1 of 2
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
 
-### Who needs support?
+**The result:** One place to manage business email and account access.
 
-For my businessTeam, devices, Microsoft 365 or security**→** For my homePersonal devices, Wi-Fi, setup or safety**→**
+Read the project ↗
 
-## Professional standards. Human conversations.
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
 
-Good IT support should feel calm. You should know who is responsible, what is happening next and what it will cost.
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
-  1. 01
+## What can we help you with?
 
-### Understand
+Choose a starting point and tell us a little more. We will confirm the right scope before work starts.
 
-We start with the way you work, not a pre-written product list.
+[I need a website or online presence](https://ostechnology.uk/#contact)[Explore websites & digital presence ↗](https://ostechnology.uk/services/business/web-presence)
 
-  2. 02
+[I need professional email or Microsoft 365](https://ostechnology.uk/#contact)[Explore business email & Microsoft 365 ↗](https://ostechnology.uk/services/business/business-email)
 
-### Stabilise
+[I need help with my existing website, email or domain](https://ostechnology.uk/#contact)[Explore hosting & domains ↗](https://ostechnology.uk/services/business/hosting-domains)
 
-Immediate risks and recurring frustrations are handled first.
+[I need IT support or cybersecurity](https://ostechnology.uk/#contact)[Explore IT support & security ↗](https://ostechnology.uk/services/business/it-support)
 
-  3. 03
+[Something else](https://ostechnology.uk/#contact)[Explore all business services ↗](https://ostechnology.uk/services/business)
 
-### Improve
+## Useful advice for safer, simpler technology.
 
-A practical roadmap turns reactive fixes into steady progress.
-
-## Useful advice, without the sales pitch.
+[View all insights ↗](https://ostechnology.uk/blog)
 
 Microsoft 3651 September 2026
 
@@ -128,8 +126,6 @@ Staff at your accountancy firm are probably already using AI tools on client dat
 **Read article ↗**
 
 [The Hidden Risk in Your Practice: Shadow AI and Client Data](https://ostechnology.uk/blog/shadow-ai-accountancy-client-data)
-
-[View all insights ↗](https://ostechnology.uk/blog)
 
 ## Tell us what needs to work better.
 

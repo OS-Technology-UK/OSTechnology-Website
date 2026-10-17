@@ -1,112 +1,142 @@
 ---
-title: "Business IT Services | Managed IT & Microsoft Modern Workplace | OS Technology"
-description: "Business IT services from OS Technology, managed IT support, cybersecurity, Microsoft Modern Workplace (Microsoft 365 & Copilot AI), new device provision, web presence and device support for growing businesses."
+title: "Websites, Email, Hosting & IT Services | OS Technology"
+description: "Website design, business email, Microsoft 365, hosting, IT support and cybersecurity for small businesses in Beverley, East Yorkshire and across the UK."
 url: "https://ostechnology.uk/services/business"
 site: OS Technology
 ---
 
-# One Provider, Total Coverage.
+# Everything your business needs, in one place.
 
-Comprehensive IT for growing businesses. We handle the tech so you can focus on what you do best, and keep your people at the forefront of modern business practices along the way.
+Launch your website, set up professional email, bring your domains and hosting together, and keep your technology working with practical support.
 
-## Business IT Services
+[Talk through your needs ↗](https://ostechnology.uk/services/business#contact)
 
-Seven core services to keep your business running, protected and growing, built around a simple vision: keep your people at the forefront of modern business practices. Click any service to learn more.
+## Everything your business needs, in one place.
 
-Most Popular
+### [Websites & Digital Presence](https://ostechnology.uk/services/business/web-presence)
 
-### IT Support
+Professional websites, domains, Google Business Profiles and hosting.
 
-Outsource your IT worries. Proactive monitoring, helpdesk support and maintenance for a fixed monthly fee.
+  * [Website design ↗](https://ostechnology.uk/services/business/website-design)
 
-[IT Support](https://ostechnology.uk/services/business/it-support)
+### [Business Email & Microsoft 365](https://ostechnology.uk/services/business/business-email)
 
-### Business Cybersecurity
+Professional email, migrations, Microsoft 365 and secure setup.
 
-Protect your business from modern threats with audits, endpoint protection and staff training.
+  * [Microsoft 365 migration ↗](https://ostechnology.uk/services/business/microsoft-365-migration)
+  * [Microsoft 365 services ↗](https://ostechnology.uk/services/business/modern-workplace)
 
-[Business Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
+### [Hosting & Managed Services](https://ostechnology.uk/services/business/hosting-domains)
 
-Microsoft Partner
+Reliable hosting, DNS management and ongoing technical maintenance.
 
-### Microsoft Modern Workplace
+  * [Hosting & domains ↗](https://ostechnology.uk/services/business/hosting-domains)
 
-Microsoft 365 and Copilot AI, deployed and managed by a certified Microsoft partner, keeping your people at the forefront of modern business practices.
+### [IT Support & Cybersecurity](https://ostechnology.uk/services/business/it-support)
 
-[Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+Practical support, device management and security for small businesses.
 
-### New Devices (Asset Provision)
+  * [Cybersecurity ↗](https://ostechnology.uk/services/business/cybersecurity)
+  * [Managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
 
-Sourcing, configuring and deploying laptops, desktops and peripherals for your team.
+## The devices, planning and support behind your business.
 
-[New Devices (Asset Provision)](https://ostechnology.uk/services/business/new-devices)
+### New devices
 
-### Device Support
+Source, configure and deploy equipment.
 
-Remote and on-site hardware and software support for all your business devices.
+Explore ↗
 
-[Device Support](https://ostechnology.uk/services/business/device-support)
+[New devices](https://ostechnology.uk/services/business/new-devices)
 
-### Web Presence & Support
+### Device support
 
-Get your business online with a professional custom website, reliable hosting and search visibility.
+Help with existing business devices and software.
 
-[Web Presence & Support](https://ostechnology.uk/services/business/web-presence)
+Explore ↗
 
-Premium Service
+[Device support](https://ostechnology.uk/services/business/device-support)
 
-### Virtual CIO (vCIO)
+### Technology strategy
 
-Strategic IT leadership without the in-house cost: roadmapping, budget planning and quarterly business reviews.
+Roadmaps, budgeting and vCIO reviews.
 
-[Virtual CIO (vCIO)](https://ostechnology.uk/services/business/vcio)
+Explore ↗
 
-## Plans That Grow With Your Business
+[Technology strategy](https://ostechnology.uk/services/business/vcio)
 
-Whether you're just starting out or running an established team, every plan keeps your computers monitored, updated and protected. Pick the level of cover that fits, and we'll put together a tailored quote for your business.
+### Support for your business
 
-What's included | Starter | Standard | Premium
+Explore sector priorities and local coverage.
+
+Explore ↗
+
+[Support for your business](https://ostechnology.uk/industries)
+
+[Explore our locations ↗](https://ostechnology.uk/locations)
+
+## Choose the level of support you need.
+
+Start with how often your people need help and the protection your business needs. We then scope the plan and provide a written estimate.
+
+Starter, Standard and Premium managed IT supportWhat is included| Starter| Standard| Premium
 ---|---|---|---
-Best suited to | Startups & small businesses | Scaling teams | Professionals looking for advanced security and elite support
-Round-the-clock monitoring | Yes | Yes | Yes
-Automatic updates & patching | Yes | Yes | Yes
-Antivirus protection | Business-grade | Advanced threat detection | Managed 24/7 protection + MDR
-Included remote support | Pay-as-you-go (reduced rate) | Unlimited* | Unlimited*
-Email protection from spoofing & scam messages | — | Yes | Yes
-Device security rules (encryption & screen locks) | — | Yes | Yes
-Office 365 security audit & hardening | — | Yes | Yes
-Managed Detection & Response (MDR) | — | — | Yes
-Security reporting | — | Quarterly review call | Monthly security report
-Strategic IT roadmap & vCIO reviews | — | — | Quarterly, [learn more](https://ostechnology.uk/services/business/vcio)
-Support hours | 9–5, business days | 9–5, business days | 8–6, business days + dedicated response times
+Best suited to| A small business needing protection and occasional help| A growing team needing ongoing remote support| A business needing additional security and strategic reviews
+Remote support| 1 hour free across the business| Included| Unlimited, subject to fair use
+Monitoring and maintenance| Round-the-clock monitoring, updates and patching| Round-the-clock monitoring, updates and patching| Round-the-clock monitoring, updates and patching
+Security| Business-grade antivirus| Advanced threat detection, email protection, device security rules and Microsoft 365 hardening| Standard protection plus managed detection and response (MDR)
+Reviews and reporting| —| Quarterly review call| Monthly security report and quarterly vCIO reviews
+Helpdesk hours| 9:00–17:00, business days| 9:00–17:00, business days| 8:00–18:00, business days
 
-[Get a Tailored Quote](https://ostechnology.uk/services/business#contact)
+### Your estimate makes the costs and response arrangements clear.
 
-6-month minimum term, with 30 days' notice to cancel. All software licences are billed separately.
+The proposal sets out your support scope, response arrangements and labour rates. All software licences are billed separately. Support outside your plan’s included hours is billed at the plan’s labour rate. Premium unlimited remote support is subject to fair use.
 
-Any support beyond your plan's included hours is billed at your plan's labour rate.
+No minimum contract term. Round-the-clock monitoring and MDR do not extend the published helpdesk hours.
 
-*Unlimited remote support is subject to fair use.
+[Contact us ↗](https://ostechnology.uk/services/business#contact)
 
-## Why Choose Us for Business IT
+## Recent work. Real business improvements.
 
-Our vision is simple: keep your people at the forefront of modern business practices, with technology that works for them, not against them.
+Website, Microsoft 365 and account security improvements from individual projects.
 
-### Certified Microsoft Partner
+### Website rebuilt within 24 hours
 
-As a certified Microsoft partner, we deploy, migrate and manage your Modern Workplace, email, Office apps, Teams, Copilot AI and security, from a single home-office user to a growing team.
+**The problem:** A slow homemade website and email running through a basic webmail service.
 
-### Built for Growing Businesses
+**What we delivered:** A replacement website, Exchange email migration and Microsoft 365 Business Premium onboarding.
 
-Whether you're a sole trader scaling up or an SMB adding your first IT team, we grow with you. Flexible support that fits where you are now and where you're headed.
+**The result:** The website was rebuilt within 24 hours. That timeframe applies to the website rebuild, not the whole project.
 
-### Remote-First Support
+Read the project ↗
 
-We support clients UK-wide via secure remote tools. Most issues are resolved the same day, no travel, no delays.
+[Website rebuilt within 24 hours](https://ostechnology.uk/blog/accountant-website-rebuild-microsoft-365-migration)
 
-### Security-First Mindset
+### Ten domains. One Microsoft 365 tenant.
 
-Every service we deliver has security best practices built in from the start.
+**The problem:** Business email spread across several providers and ten domains.
+
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
+
+**The result:** One place to manage business email and account access.
+
+Read the project ↗
+
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
+
+### 20+ logins moved into a password manager
+
+**The problem:** The same client’s business logins were scattered, with around half stored in a plain-text document.
+
+**What we delivered:** Moving the 20+ business logins into a password manager.
+
+**The result:** Business credentials brought together instead of left in scattered storage.
+
+Read the project ↗
+
+[20+ logins moved into a password manager](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

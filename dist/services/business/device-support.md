@@ -9,6 +9,8 @@ site: OS Technology
 
 Keep your team productive with fast, reliable device support. From remote troubleshooting and software fixes to hardware repairs and upgrades, we look after your business laptops, desktops and peripherals, so downtime stays to an absolute minimum.
 
+[Talk through your needs ↗](https://ostechnology.uk/services/business/device-support#contact)
+
 ## Remote Troubleshooting
 
 Many device issues don't need a physical visit. Using secure remote-access tools, we connect directly to your team's machines to diagnose and resolve software problems, slow performance, error messages and configuration issues. Often within the same session. Most problems are sorted the same business day, keeping disruption to a minimum.
@@ -20,7 +22,7 @@ Many device issues don't need a physical visit. Using secure remote-access tools
 
 ## Hardware Repairs & Upgrades
 
-When hardware fails or your devices need a performance boost, we handle the physical work too. We provide clear, upfront quotes before any repair begins, no surprises on the invoice:
+When hardware fails or your devices need a performance boost, we handle the physical work too. We provide clear, upfront estimates before any repair begins, no surprises on the invoice:
 
   * Screen replacements for laptops and monitors
   * SSD upgrades and hard-drive replacements
@@ -39,8 +41,6 @@ From day-to-day application issues to full operating-system reinstalls, we keep 
   * Driver and firmware updates
   * Malware removal and post-infection cleanup
 
-What's Covered
-
   * Remote troubleshooting & diagnostics
   * Hardware repairs & component swaps
   * SSD, RAM & battery upgrades
@@ -50,7 +50,7 @@ What's Covered
   * Driver & firmware management
   * On-site visits when needed
 
-Support levels vary by tier — [compare our plans](https://ostechnology.uk/business#plans).
+Support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
 
 [Request Support](https://ostechnology.uk/services/business/device-support#contact)
 
@@ -92,7 +92,7 @@ Get in touch by phone, email or the form below. Let us know what's happening and
 
 ### Diagnosis
 
-We connect remotely or arrange an on-site visit to diagnose the problem. You'll get a clear explanation and, for hardware work, an upfront quote.
+We connect remotely or arrange an on-site visit to diagnose the problem. You'll get a clear explanation and, for hardware work, an upfront estimate.
 
 ### Fix & Resolve
 
@@ -104,23 +104,23 @@ Once the work is complete we verify everything is working correctly and follow u
 
 ## Frequently Asked Questions
 
-### Can you support both Windows and Mac devices?
+Can you support both Windows and Mac devices?
 
 Yes. We support Windows, macOS and Linux devices across laptops, desktops and workstations. Whether your team runs a mixed fleet or is standardised on one platform, we have the expertise to troubleshoot, repair and maintain every device in your estate.
 
-### How quickly do you respond to support requests?
+How quickly do you respond to support requests?
 
 How quickly we respond depends on your support plan, with higher tiers getting priority. For hardware issues that require parts or an on-site visit, we'll provide a clear timeline as soon as we've diagnosed the problem, typically within the same business day.
 
-### Do you offer on-site repairs?
+Do you offer on-site repairs?
 
 Yes. While many issues can be resolved remotely, we provide on-site visits when hands-on work is needed: such as hardware replacements, workstation setups or office-wide rollouts. On-site availability depends on your location, and we'll always confirm scheduling upfront.
 
-### What happens if a device can't be repaired?
+What happens if a device can't be repaired?
 
 If a repair isn't economical or the device is beyond saving, we'll let you know straight away with an honest assessment. We can then help you source a replacement, migrate your data across and get the new device configured and ready to use with minimal downtime.
 
-### Can you support remote workers' devices?
+Can you support remote workers' devices?
 
 Absolutely. Our remote support tools let us diagnose and fix issues on devices anywhere in the UK. For hardware problems, we can arrange courier collection and return, or guide your team member through simple swaps with pre-configured replacement parts.
 
@@ -136,11 +136,15 @@ Whether it's a software glitch, a cracked screen or a sluggish laptop, get in to
 
 Business device procurement and deployment, sourced, pre-configured and ready to use from day one.
 
+View Service →
+
 [New Devices](https://ostechnology.uk/services/business/new-devices)
 
 ### IT Support
 
 Fast, friendly helpdesk support for your team, by phone, email or remote access, with on-site visits when needed.
+
+View Service →
 
 [IT Support](https://ostechnology.uk/services/business/it-support)
 
@@ -148,7 +152,27 @@ Fast, friendly helpdesk support for your team, by phone, email or remote access,
 
 Protect your business with endpoint security, threat monitoring, staff training and incident response planning.
 
+View Service →
+
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### 20+ logins moved into a password manager
+
+**The problem:** The same client’s business logins were scattered, with around half stored in a plain-text document.
+
+**What we delivered:** Moving the 20+ business logins into a password manager.
+
+**The result:** Business credentials brought together instead of left in scattered storage.
+
+Read the project ↗
+
+[20+ logins moved into a password manager](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

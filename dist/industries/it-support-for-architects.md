@@ -9,6 +9,8 @@ site: OS Technology
 
 Reliable IT support for architects and design practices. We keep your workstations, Microsoft 365, large-file storage, security and backup running so your team can design without technology getting in the way.
 
+[Talk through your needs ↗](https://ostechnology.uk/industries/it-support-for-architects#contact)
+
 ## IT Support for Architects
 
 Architectural practices depend on powerful computers and large design files, and on being able to share those files reliably across the team. Slow workstations, storage that keeps filling up or a lost file can cost real time on a project. Yet a small or medium practice rarely needs a full-time IT person.
@@ -23,8 +25,6 @@ Design work is demanding, so your hardware needs to keep up. As part of our devi
 
 Design files are large and precious. We help you store and share them reliably through OneDrive or SharePoint, so the whole team is working from the right version, and we back everything up automatically so a hardware failure or mistake never means losing a project’s work. Everything is protected with endpoint security and multi-factor authentication.
 
-What’s Included
-
   * Microsoft 365 & email management
   * Cybersecurity & endpoint protection
   * Managed cloud backup
@@ -34,7 +34,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans). Microsoft 365 licences are billed separately.
+Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans). Microsoft 365 licences are billed separately.
 
 [Get a Free Assessment](https://ostechnology.uk/industries/it-support-for-architects#contact)
 
@@ -44,7 +44,7 @@ A complete IT function for your firm: predictable costs, proactive protection, e
 
 ### Microsoft 365 & Email
 
-Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team, so email and collaboration just work.
+Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists, so email and collaboration just work.
 
 ### Cybersecurity
 
@@ -60,7 +60,7 @@ We supply, set up and support the laptops and PCs your team relies on, so everyo
 
 ### Helpdesk Support
 
-A friendly helpdesk your staff can contact for day-to-day issues, with most problems resolved remotely in minutes.
+A friendly helpdesk your staff can contact for day-to-day issues, with remote troubleshooting where appropriate.
 
 ### Secure Remote & Hybrid Working
 
@@ -88,19 +88,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Can you supply powerful workstations for design work?
+Can you supply powerful workstations for design work?
 
 Yes. As part of our device support and procurement we can specify, supply and set up workstations suited to demanding design work, and keep them maintained and up to date so they stay fast and reliable.
 
-### How do you handle large design files and backup?
+How do you handle large design files and backup?
 
 We help you store and share large files reliably through OneDrive or SharePoint, and back everything up automatically so you can recover quickly from hardware failure, mistakes or ransomware.
 
-### Can our team work securely from home or on site?
+Can our team work securely from home or on site?
 
 Yes. We set up secure access on managed devices so your team can work safely from home, the studio or a site visit, with project files and data protected.
 
-### Do we need our own in-house IT?
+Do we need our own in-house IT?
 
 Most practices don’t. For a fixed monthly fee we provide a complete outsourced IT function, typically far more cost-effective than employing IT staff, with a whole team behind you.
 
@@ -116,11 +116,15 @@ Book a free IT assessment and see how straightforward it is to hand your IT to a
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep client data protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -128,7 +132,21 @@ Endpoint protection, security audits and incident response to keep client data p
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## IT that supports architects
+
+We support Microsoft 365, devices, security, backup and connectivity. Your specialist business applications remain supported by their vendors; we can coordinate infrastructure troubleshooting with them.
+
+### Large files and device setup
+
+Match workstation and storage arrangements to how design files are shared. Keep business accounts and device configurations documented.
+
+### Project continuity
+
+Review backups, remote access and starter/leaver processes so project information remains accessible to the right people.
 
 ## Tell us what needs to work better.
 

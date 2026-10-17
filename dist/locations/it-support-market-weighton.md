@@ -9,6 +9,8 @@ site: OS Technology
 
 Reliable IT support for businesses in Market Weighton — the growing Wolds market town between York and Beverley. Proactive, secure and easy to work with.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-market-weighton#contact)
+
 ## IT Support in Market Weighton
 
 Market Weighton is a growing market town on the western edge of the Wolds, well placed between York and Beverley, with an expanding residential and business community. Its local firms need solid, secure IT to keep pace, without the cost of employing their own technician.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Market Weighton and nearby areas including Pocklington, Beverley, Shiptonthorpe, Holme-on-Spalding-Moor and York. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Market Weighton and nearby areas including Pocklington, Beverley, Shiptonthorpe, Holme-on-Spalding-Moor and York. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-market-weighton#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,19 +89,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Market Weighton?
+Do you provide IT support in Market Weighton?
 
-Yes. We support businesses throughout Market Weighton and the surrounding Wolds. Because we work remotely first, most issues are resolved in minutes, with on-site visits arranged when needed.
+Yes. We support businesses throughout Market Weighton and the surrounding Wolds. Because we work remotely first, we begin with remote troubleshooting where appropriate, with on-site visits arranged when needed.
 
-### Are you a local Market Weighton IT company?
+Are you a local Market Weighton IT company?
 
 We’re an East Riding–focused managed IT provider. Our remote-first model suits a town like Market Weighton well: quick response without waiting for an engineer to drive out, plus on-site support when a job needs it.
 
-### What kind of Market Weighton businesses do you support?
+What kind of Market Weighton businesses do you support?
 
 Office-based firms without their own IT team — professional practices, agencies and independent local businesses. Plans range across Starter, Standard and Premium.
 
-### How much does IT support in Market Weighton cost?
+How much does IT support in Market Weighton cost?
 
 Support is a fixed monthly fee, keeping costs predictable. Pricing depends on the plan — contact us for a free assessment.
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your Ma
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,39 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Market Weighton
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Market Weighton, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Pocklington
+
+Explore business IT support in Pocklington.
+
+Explore ↗
+
+[Pocklington](https://ostechnology.uk/locations/it-support-pocklington)
+
+### Beverley
+
+Explore business IT support in Beverley.
+
+Explore ↗
+
+[Beverley](https://ostechnology.uk/locations/it-support-beverley)
+
+### Howden
+
+Explore business IT support in Howden.
+
+Explore ↗
+
+[Howden](https://ostechnology.uk/locations/it-support-howden)
 
 ## Tell us what needs to work better.
 

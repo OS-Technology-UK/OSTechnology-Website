@@ -9,6 +9,8 @@ site: OS Technology
 
 Reliable IT support for marketing and creative agencies. We keep your Microsoft 365, devices, security and backup running so your team can collaborate and deliver for clients, in the studio or working remotely.
 
+[Talk through your needs ↗](https://ostechnology.uk/industries/it-support-for-marketing-agencies#contact)
+
 ## IT Support for Marketing & Creative Agencies
 
 Agency life is collaborative, deadline-driven and increasingly hybrid. Your team shares large files, jumps between client projects and often works across the studio, home and client sites. When technology gets in the way — slow file sharing, email trouble, a laptop that won’t behave — it’s billable time lost.
@@ -23,8 +25,6 @@ Creative work is demanding on both people and machines. We supply and support we
 
 Agencies live in shared files and fast collaboration. We help you work seamlessly through Microsoft 365, Teams and SharePoint, provision devices quickly as your team grows, and protect client work and data with endpoint security, multi-factor authentication and automated backup, wherever your people are working.
 
-What’s Included
-
   * Microsoft 365 & email management
   * Cybersecurity & endpoint protection
   * Managed cloud backup
@@ -34,7 +34,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans). Microsoft 365 licences are billed separately.
+Support levels and helpdesk hours vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans). Microsoft 365 licences are billed separately.
 
 [Get a Free Assessment](https://ostechnology.uk/industries/it-support-for-marketing-agencies#contact)
 
@@ -44,7 +44,7 @@ A complete IT function for your firm: predictable costs, proactive protection, e
 
 ### Microsoft 365 & Email
 
-Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team, so email and collaboration just work.
+Outlook, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists, so email and collaboration just work.
 
 ### Cybersecurity
 
@@ -60,7 +60,7 @@ We supply, set up and support the laptops and PCs your team relies on, so everyo
 
 ### Helpdesk Support
 
-A friendly helpdesk your staff can contact for day-to-day issues, with most problems resolved remotely in minutes.
+A friendly helpdesk your staff can contact for day-to-day issues, with remote troubleshooting where appropriate.
 
 ### Secure Remote & Hybrid Working
 
@@ -88,19 +88,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Can you help with large files and collaboration?
+Can you help with large files and collaboration?
 
 Yes. We help your team collaborate and share files reliably through Microsoft 365, Teams and SharePoint, so everyone works from the right version.
 
-### Can our team work securely from anywhere?
+Can our team work securely from anywhere?
 
 Absolutely. We set up secure access on managed devices so your team can work safely from the studio, home or client sites, with client work and data protected.
 
-### Can you supply and support our laptops and workstations?
+Can you supply and support our laptops and workstations?
 
 Yes. Our device support and procurement covers specifying, supplying and setting up well-specified machines for creative work, then keeping them monitored and up to date so they stay fast and reliable.
 
-### Do we need our own in-house IT?
+Do we need our own in-house IT?
 
 Most agencies don’t. For a fixed monthly fee we provide a complete outsourced IT function that scales with you, typically far more cost-effective than employing IT staff.
 
@@ -116,11 +116,15 @@ Book a free IT assessment and see how straightforward it is to hand your IT to a
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep client data protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -128,7 +132,21 @@ Endpoint protection, security audits and incident response to keep client data p
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## IT that supports marketing & creative agencies
+
+We support Microsoft 365, devices, security, backup and connectivity. Your specialist business applications remain supported by their vendors; we can coordinate infrastructure troubleshooting with them.
+
+### Client account ownership
+
+Record who owns domains, social accounts and cloud subscriptions. Use secure credential sharing instead of sending passwords in messages.
+
+### Collaboration and handovers
+
+Manage access for staff and collaborators, and make file sharing and leaver handovers part of the working process.
 
 ## Tell us what needs to work better.
 

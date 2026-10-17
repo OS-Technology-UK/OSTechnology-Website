@@ -1,37 +1,28 @@
 # OS Technology
 
-OS Technology is a UK-based managed IT services provider (MSP) and certified Microsoft 365 partner, offering IT support for home users and growing businesses across East Riding of Yorkshire and the UK.
+OS Technology Limited helps small businesses establish, manage and improve their digital setup: websites, professional email, Microsoft 365, hosting, cybersecurity and IT support. Based in Beverley, East Yorkshire, serving businesses locally and throughout the UK. Microsoft CSP indirect reseller.
 
-## Key Pages
+- [Business technology services and managed plans](https://ostechnology.uk/services/business)
+- [Case studies](https://ostechnology.uk/case-studies): website rebuilt within 24 hours, ten domains consolidated into one Microsoft 365 tenant, and 20+ logins moved into a password manager. These are individual project results; the password work followed the ten-domain project for the same client.
+- [Microsoft 365](https://ostechnology.uk/services/business/modern-workplace)
+- [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
+- [Websites and digital presence](https://ostechnology.uk/services/business/web-presence): the overview for websites, business email, domains and Google Business Profiles.
+- [Website design](https://ostechnology.uk/services/business/website-design): simple business websites from £100 one-off for one responsive brochure page using client-supplied content, with business information and contact details. OS Technology hosting is required from £10/month. Domains and email cost extra. No VAT is charged. Additional pages, enquiry forms, functionality and content creation are estimated separately. Complete business setup and website modernisation receive tailored estimates.
+- [Business email setup](https://ostechnology.uk/services/business/business-email): own-domain email, new mailboxes, secure sign-ins and clear account ownership.
+- [Microsoft 365 migration](https://ostechnology.uk/services/business/microsoft-365-migration): moving existing email, discovery, agreed cutover and post-migration checks.
+- [Hosting and domains](https://ostechnology.uk/services/business/hosting-domains): web services starting from £10 per month, domain registration/transfers, DNS management and ongoing technical maintenance. Domains and email are priced separately. No VAT is charged.
+- [Industries](https://ostechnology.uk/industries): ten office-based sectors. Specialist business applications remain supported by their vendors.
+- [Locations](https://ostechnology.uk/locations): twelve East Riding coverage pages. Visits, scope and charges are agreed in advance; no arrival-time guarantee is published.
+- [About](https://ostechnology.uk/about)
+- [Products and partners](https://ostechnology.uk/partners)
+- [Insights](https://ostechnology.uk/blog)
+- [Free small business technology review](https://ostechnology.uk/small-business-technology-review)
+- [Home Support](https://ostechnology.uk/services/home): existing Personal and Family remote support plans.
 
-- [Home – UK Based IT Support & Managed IT Services](https://ostechnology.uk/)
-- [About OS Technology](https://ostechnology.uk/about.html)
-- [Home IT Support Services](https://ostechnology.uk/services/home.html)
-- [Business IT Services](https://ostechnology.uk/services/business.html)
-- [Managed IT Support for Business](https://ostechnology.uk/services/business/it-support.html)
-- [Microsoft Modern Workplace (Microsoft 365 & Copilot AI)](https://ostechnology.uk/services/business/modern-workplace.html)
-- [Business Cybersecurity](https://ostechnology.uk/services/business/cybersecurity.html)
-- [Device Support & Procurement](https://ostechnology.uk/services/business/device-support.html)
-- [New Device Provision](https://ostechnology.uk/services/business/new-devices.html)
-- [Web Presence & Hosting](https://ostechnology.uk/services/business/web-presence.html)
-- [Areas We Cover – IT Support Across East Riding](https://ostechnology.uk/locations)
-- [Industries We Support – Sector IT Support](https://ostechnology.uk/industries)
-- [Blog – IT & Cybersecurity Insights](https://ostechnology.uk/blog)
+Starter, Standard and Premium managed plans are scoped in a written proposal. There is no minimum contract term. Starter remote support includes 1 hour free across the business. Standard remote support is included. Premium unlimited remote support is subject to fair use. Software licences are billed separately. Helpdesk hours are 9:00–17:00 business days for Starter and Standard, and 8:00–18:00 business days for Premium. Response arrangements are specified in the proposal. Round-the-clock monitoring does not extend helpdesk hours.
 
-## Local & Industry Landing Pages
+Enquiries: hello@ostechnology.uk. Company number 17261969.
 
-OS Technology publishes location-specific IT support pages for towns across the East Riding of Yorkshire (Hull, Beverley, Bridlington, Goole, Driffield, Cottingham, Hessle, Pocklington, Withernsea, Hedon, Howden and Market Weighton) at https://ostechnology.uk/locations, and industry-specific pages for office-based sectors (accountants, solicitors, estate agents, financial advisers, recruitment agencies, architects, insurance brokers, marketing agencies and charities) at https://ostechnology.uk/industries. Industry pages cover the IT foundation OS Technology manages — Microsoft 365, devices, cybersecurity and backup — not third-party line-of-business software, which is supported by its own vendors.
+## Markdown for agents
 
-## Markdown for Agents
-
-Every page on this site is also published as clean markdown. Send `Accept: text/markdown` with a request to any page URL and the markdown representation is returned instead of HTML, or append `.md` to the path (for example https://ostechnology.uk/about.md). Browsers are unaffected: HTML remains the default representation.
-
-## Description
-
-OS Technology provides remote-first IT support with no call centres and no jargon. Services include Microsoft 365 deployment and migration, cybersecurity auditing, device procurement, web presence management, and fully managed IT support plans (Starter, Standard, Premium).
-
-## Contact
-
-- Email: hello@ostechnology.uk
-- Website: https://ostechnology.uk/
-- Area served: East Riding of Yorkshire and UK-wide (remote)
+Every page is also available as clean Markdown. Send `Accept: text/markdown` to a page URL or request its `.md` path, such as https://ostechnology.uk/about.md. HTML remains the default representation for browsers.

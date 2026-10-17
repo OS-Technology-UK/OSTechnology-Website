@@ -9,6 +9,8 @@ site: OS Technology
 
 Dependable IT support for businesses in Hedon — the historic market town east of Hull — and across south Holderness. Secure, proactive and jargon-free.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-hedon#contact)
+
 ## IT Support in Hedon
 
 Hedon is a historic market town just east of Hull, a convenient base for small businesses serving south Holderness and the eastern edge of the city. Its firms need the same reliable, secure IT as anyone in Hull, without the cost of an in-house technician.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Hedon and nearby areas including Hull, Preston, Bilton, Keyingham and Withernsea. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Hedon and nearby areas including Hull, Preston, Bilton, Keyingham and Withernsea. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-hedon#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,19 +89,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Hedon?
+Do you provide IT support in Hedon?
 
 Yes. We support businesses throughout Hedon and the surrounding south Holderness area, with fast remote support and on-site visits when needed.
 
-### Are you a local Hedon IT company?
+Are you a local Hedon IT company?
 
 We’re an East Yorkshire–focused managed IT provider with a remote-first model, so Hedon businesses get quick help without waiting for a van, plus on-site support when a job requires it.
 
-### What kind of Hedon businesses do you support?
+What kind of Hedon businesses do you support?
 
 Office-based small and medium firms without in-house IT — professional practices, agencies and independent local businesses. Plans run across Starter, Standard and Premium.
 
-### How much does IT support in Hedon cost?
+How much does IT support in Hedon cost?
 
 Support is a fixed monthly fee for predictable budgeting. Pricing depends on the plan — contact us for a free assessment.
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your He
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,31 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Hedon
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Hedon, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Hull
+
+Explore business IT support in Hull.
+
+Explore ↗
+
+[Hull](https://ostechnology.uk/locations/it-support-hull)
+
+### Withernsea
+
+Explore business IT support in Withernsea.
+
+Explore ↗
+
+[Withernsea](https://ostechnology.uk/locations/it-support-withernsea)
 
 ## Tell us what needs to work better.
 

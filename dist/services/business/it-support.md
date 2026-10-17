@@ -9,6 +9,8 @@ site: OS Technology
 
 Outsource your IT worries with a fully managed service. We proactively monitor, maintain and support all of your technology, so you can focus entirely on running your business.
 
+[Talk through your needs ↗](https://ostechnology.uk/services/business/it-support#contact)
+
 ## What Is a Managed IT Service?
 
 A Managed Service Provider (MSP) takes care of your IT for a fixed monthly fee. Instead of waiting for things to break, we monitor and resolve issues proactively. Often before your team notices anything is wrong. For most small businesses it's more cost-effective than an in-house IT hire.
@@ -34,8 +36,6 @@ We automate patching across Windows, macOS and third-party apps (applied out of 
 
 We support businesses right across the East Riding of Yorkshire — explore the [areas we cover](https://ostechnology.uk/locations), from Hull and Beverley to Bridlington, Goole and beyond. We also tailor our managed IT to your sector: see how we help [specific industries](https://ostechnology.uk/industries) including accountants, solicitors, estate agents and other office-based firms.
 
-What's Included
-
   * 24/7 remote monitoring
   * Helpdesk support (Mon–Fri)
   * Automated patch management
@@ -46,7 +46,7 @@ What's Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and unlimited support vary by tier — [compare our plans](https://ostechnology.uk/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and included remote support vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
 
 [Get a Free Assessment](https://ostechnology.uk/services/business/it-support#contact)
 
@@ -100,23 +100,23 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### What is a Managed IT Service Provider (MSP)?
+What is a Managed IT Service Provider (MSP)?
 
 A Managed Service Provider takes over the day-to-day management and monitoring of your IT systems for a fixed monthly fee. Instead of reacting to problems after they occur, we proactively monitor your systems to detect and resolve issues before they impact your business. Often before you even notice anything is wrong.
 
-### How quickly do you respond to support requests?
+How quickly do you respond to support requests?
 
 How quickly we respond depends on your plan, with higher tiers getting priority. Critical issues affecting your whole business are always prioritised, and out-of-hours emergency support can be arranged as part of your contract.
 
-### Do you support remote and hybrid workforces?
+Do you support remote and hybrid workforces?
 
 Yes. We're built for remote and distributed teams. We support remote users via VPN, manage cloud-based tools like Microsoft 365, and ensure your security policies cover staff working from anywhere.
 
-### How is your MSP service priced?
+How is your MSP service priced?
 
-Our managed IT packages come as three clear plans, each a fixed monthly fee. This gives you full budget predictability. No surprise invoices when something goes wrong. [Compare our Starter, Standard and Premium plans](https://ostechnology.uk/business#plans) and contact us for a tailored quote based on your requirements. Microsoft 365 licences are billed separately.
+Our managed IT packages come as three clear plans, each a fixed monthly fee. This gives you full budget predictability. No surprise invoices when something goes wrong. [Compare our Starter, Standard and Premium plans](https://ostechnology.uk/services/business#plans) and contact us for a tailored estimate based on your requirements. Microsoft 365 licences are billed separately.
 
-### Can you take over IT support from our existing provider?
+Can you take over IT support from our existing provider?
 
 Absolutely. We handle smooth transitions from existing IT providers or in-house IT setups. We conduct a full infrastructure audit, document your environment, and onboard your team without disrupting your day-to-day operations.
 
@@ -132,11 +132,15 @@ Book a free IT assessment and find out how much it costs to hand your IT over to
 
 Complement your managed IT with a dedicated security layer, audits, endpoint protection and incident response.
 
+View Service →
+
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
 ### Microsoft Modern Workplace
 
-Microsoft 365 and Copilot AI, set up, managed and supported by our certified Microsoft team.
+Microsoft 365 and Copilot AI, set up, managed and supported by our Microsoft 365 specialists.
+
+View Service →
 
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
 
@@ -144,7 +148,39 @@ Microsoft 365 and Copilot AI, set up, managed and supported by our certified Mic
 
 Strategic technology leadership, roadmapping and budget planning, included with our Premium plan.
 
+View Service →
+
 [Virtual CIO (vCIO)](https://ostechnology.uk/services/business/vcio)
+
+## Recent work. Real business improvements.
+
+Website, Microsoft 365 and account security improvements from individual projects.
+
+### Ten domains. One Microsoft 365 tenant.
+
+**The problem:** Business email spread across several providers and ten domains.
+
+**What we delivered:** Consolidation of those domains and mailboxes into one Microsoft 365 tenant.
+
+**The result:** One place to manage business email and account access.
+
+Read the project ↗
+
+[Ten domains. One Microsoft 365 tenant.](https://ostechnology.uk/blog/multiple-business-emails-one-microsoft-365-tenant)
+
+### 20+ logins moved into a password manager
+
+**The problem:** The same client’s business logins were scattered, with around half stored in a plain-text document.
+
+**What we delivered:** Moving the 20+ business logins into a password manager.
+
+**The result:** Business credentials brought together instead of left in scattered storage.
+
+Read the project ↗
+
+[20+ logins moved into a password manager](https://ostechnology.uk/blog/multiple-business-passwords-one-password-manager)
+
+[See all our work ↗](https://ostechnology.uk/case-studies)
 
 ## Tell us what needs to work better.
 

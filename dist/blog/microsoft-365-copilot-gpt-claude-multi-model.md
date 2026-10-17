@@ -7,7 +7,7 @@ site: OS Technology
 
 # Microsoft 365 Copilot Can Now Run on GPT-5.6 or Claude, Here’s What That Means for Your Business
 
-28 July 2026OS Technology team
+28 July 2026OS Technology
 
 In this article
 
@@ -31,15 +31,17 @@ For UK business owners, that’s a genuinely useful development, for a few reaso
 
   * **Less lock-in.** If a better model comes out next year, there’s now a real chance your existing Copilot licence starts using it without you having to migrate to a new platform.
   * **More competitive pressure.** OpenAI, Anthropic and Microsoft’s own model teams are effectively competing for space inside the same product. That tends to push quality up and price growth down over time, which is the opposite of what usually happens once a vendor has you locked in.
-  * **A data residency question worth asking.** Swapping the model behind Copilot isn’t just a quality question, it’s a data question too. Microsoft has invested heavily in its EU Data Boundary commitments, but OpenAI and Anthropic have their own data handling terms, which may differ on where processing happens and how it fits with UK GDPR. If your business handles client data, health records, or anything else sensitive, it’s worth confirming with your Microsoft partner exactly which model is active on your tenant and where that provider processes data.
+  * **A data residency question worth asking.** Swapping the model behind Copilot isn’t just a quality question, it’s a data question too. Microsoft has invested heavily in its EU Data Boundary commitments, but OpenAI and Anthropic have their own data handling terms, which may differ on where processing happens and how it fits with UK GDPR. If your business handles client data, health records, or anything else sensitive, it’s worth confirming with your Microsoft CSP indirect reseller exactly which model is active on your tenant and where that provider processes data.
 
 > Don’t evaluate an AI tool purely on which model it currently uses. That’s changing faster than most procurement cycles.
 
 ## What to do with this
 
-If you’re currently evaluating Copilot, or renewing a Microsoft 365 agreement ahead of the new UK pricing kicking in at renewal, it’s worth asking your Microsoft partner or IT provider three things: which model is actually running behind your Copilot licence today, whether that’s configurable at the tenant level, and where each provider processes data relative to UK GDPR requirements. It’s also a good moment to revisit whether the new bundled pricing on Business Standard and Business Premium changes the maths on your current licence mix, since Copilot access that used to cost extra is now included on some plans. Our own [Microsoft 365 setup and migration](https://ostechnology.uk/services/business/modern-workplace) work often starts with exactly this kind of licence review.
+If you’re currently evaluating Copilot, or renewing a Microsoft 365 agreement ahead of the new UK pricing kicking in at renewal, it’s worth asking your Microsoft CSP indirect reseller or IT provider three things: which model is actually running behind your Copilot licence today, whether that’s configurable at the tenant level, and where each provider processes data relative to UK GDPR requirements. It’s also a good moment to revisit whether the new bundled pricing on Business Standard and Business Premium changes the maths on your current licence mix, since Copilot access that used to cost extra is now included on some plans. Our own [Microsoft 365 setup and migration](https://ostechnology.uk/services/business/modern-workplace) work often starts with exactly this kind of licence review.
 
 The bigger takeaway for anyone advising UK businesses on technology: don’t evaluate an AI tool purely on which model it currently uses. That’s changing faster than most procurement cycles. Evaluate it on how well it’s integrated into the work you actually do, how it handles your data, and how easily it can adopt whatever the best model happens to be next. That’s the same lens we use when we help clients roll out [AI and Copilot](https://ostechnology.uk/services/business/modern-workplace) across their business, alongside the [data handling and security](https://ostechnology.uk/services/business/cybersecurity) controls that should sit around it.
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
 
 ## Tell us what needs to work better.
 

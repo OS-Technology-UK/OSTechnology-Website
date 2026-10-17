@@ -9,6 +9,8 @@ site: OS Technology
 
 Reliable IT support for businesses in Cottingham — one of England’s largest villages — and the surrounding West Hull area. Proactive, secure and built around office-based firms.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-cottingham#contact)
+
 ## IT Support in Cottingham
 
 Cottingham sits just north-west of Hull and is often called one of England’s largest villages, with a lively centre of independent businesses and professional offices, and the University of Hull close by. It’s a popular base for the kind of small office-based firms that need dependable IT but not a full-time technician.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Cottingham and nearby areas including Hull, Willerby, Anlaby, Beverley and Skidby. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Cottingham and nearby areas including Hull, Willerby, Anlaby, Beverley and Skidby. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-cottingham#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,19 +89,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Cottingham?
+Do you provide IT support in Cottingham?
 
-Yes. We support businesses throughout Cottingham and the surrounding West Hull area, with fast remote support and on-site visits when needed. Most issues are resolved within minutes.
+Yes. We support businesses throughout Cottingham and the surrounding West Hull area, with fast remote support and on-site visits when needed. we begin with remote troubleshooting where appropriate.
 
-### Are you a local Cottingham IT company?
+Are you a local Cottingham IT company?
 
 We’re an East Yorkshire–focused managed IT provider with a remote-first model, so Cottingham businesses get quick help without waiting for a van, plus on-site support when a job requires it.
 
-### What kind of Cottingham businesses do you support?
+What kind of Cottingham businesses do you support?
 
 Office-based small and medium firms without in-house IT — professional practices, agencies and independent businesses around the village. Plans range across Starter, Standard and Premium.
 
-### How much does IT support in Cottingham cost?
+How much does IT support in Cottingham cost?
 
 Support is charged on a fixed monthly fee, keeping costs predictable. Pricing depends on the plan — contact us for a free assessment.
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your Co
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,39 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Cottingham
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Cottingham, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Hull
+
+Explore business IT support in Hull.
+
+Explore ↗
+
+[Hull](https://ostechnology.uk/locations/it-support-hull)
+
+### Beverley
+
+Explore business IT support in Beverley.
+
+Explore ↗
+
+[Beverley](https://ostechnology.uk/locations/it-support-beverley)
+
+### Hessle
+
+Explore business IT support in Hessle.
+
+Explore ↗
+
+[Hessle](https://ostechnology.uk/locations/it-support-hessle)
 
 ## Tell us what needs to work better.
 

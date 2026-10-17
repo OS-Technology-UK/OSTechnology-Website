@@ -7,7 +7,7 @@ site: OS Technology
 
 # The Hidden Risk in Your Practice: Shadow AI and Client Data
 
-6 August 2026OS Technology team
+6 August 2026OS Technology
 
 In this article
 
@@ -41,6 +41,8 @@ A few practical starting points for any accountancy firm:
 ## Where OS Technology fits in
 
 We provide day-to-day [IT support and cybersecurity guidance to small accountancy practices](https://ostechnology.uk/industries/it-support-for-accountants) across Hull and the East Riding, including password manager setup, two-factor authentication, endpoint protection, and support for Microsoft 365 environments. If shadow AI is a question you haven’t had time to properly think through yet, it’s worth a conversation before it becomes a bigger one.
+
+**OS Technology** is a Microsoft CSP indirect reseller and managed IT provider for home users and growing UK businesses. [Learn more about us](https://ostechnology.uk/about).
 
 ## Tell us what needs to work better.
 

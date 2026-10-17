@@ -9,6 +9,8 @@ site: OS Technology
 
 Dependable IT support for businesses in Hessle — from the foreshore and Humber Bridge area to offices across town. We keep your systems secure and running with fast, friendly support.
 
+[Talk through your needs ↗](https://ostechnology.uk/locations/it-support-hessle#contact)
+
 ## IT Support in Hessle
 
 Hessle sits on the Humber at the northern end of the Humber Bridge, a well-connected commuter town with a mix of professional offices, independent businesses and units around the foreshore. Its position between Hull and the wider East Riding makes it a convenient base for firms that value reliable technology.
@@ -21,9 +23,7 @@ We act as your outsourced IT department. That means proactive monitoring to catc
 
 ## Remote-first, on-site across the East Riding
 
-Most IT issues are resolved remotely in minutes, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Hessle and nearby areas including Hull, Anlaby, Kirk Ella, Willerby and Brough. You get the speed of modern remote support with the reassurance of in-person help when it counts.
-
-What’s Included
+Remote support lets us begin investigating without waiting for a visit, so your team isn’t left waiting for an engineer to arrive. When a job genuinely needs someone on-site, we’re here for Hessle and nearby areas including Hull, Anlaby, Kirk Ella, Willerby and Brough. You get the speed of modern remote support with the reassurance of in-person help when it counts.
 
   * Proactive remote monitoring
   * Helpdesk support (Mon–Fri)
@@ -35,7 +35,7 @@ What’s Included
   * Staff onboarding & offboarding
   * Monthly IT health reports
 
-Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#plans).
+Round-the-clock monitoring is included on every plan. Helpdesk hours and support levels vary by tier — [compare our plans](https://ostechnology.uk/services/business#managed-plans).
 
 [Get a Free Assessment](https://ostechnology.uk/locations/it-support-hessle#contact)
 
@@ -57,7 +57,7 @@ Endpoint protection, multi-factor authentication, patching and security monitori
 
 ### Microsoft 365
 
-Email, Teams, SharePoint and OneDrive set up, secured and managed by our certified Microsoft team.
+Email, Teams, SharePoint and OneDrive set up, secured and managed by our Microsoft 365 specialists.
 
 ### Managed Backup
 
@@ -89,19 +89,19 @@ From day one, your IT is monitored, maintained and supported. Monthly reports ke
 
 ## Frequently Asked Questions
 
-### Do you provide IT support in Hessle?
+Do you provide IT support in Hessle?
 
 Yes. We support businesses throughout Hessle and the surrounding Humber area, with most issues resolved remotely in minutes and on-site visits arranged when needed.
 
-### Are you a local Hessle IT company?
+Are you a local Hessle IT company?
 
 We’re an East Yorkshire–focused managed IT provider. Our remote-first model means Hessle businesses get a fast response without waiting for an engineer, plus on-site help when it’s genuinely required.
 
-### What kind of Hessle businesses do you support?
+What kind of Hessle businesses do you support?
 
 Office-based firms without their own IT team — professional practices, agencies and independent businesses. We offer managed plans across Starter, Standard and Premium.
 
-### How much does IT support in Hessle cost?
+How much does IT support in Hessle cost?
 
 We charge a fixed monthly fee for predictable costs. The exact price depends on the plan — get in touch for a free assessment.
 
@@ -117,11 +117,15 @@ Book a free IT assessment and find out how straightforward it is to hand your He
 
 Our full managed IT service: proactive monitoring, helpdesk, security and cloud, for a predictable monthly fee.
 
+View Service →
+
 [Managed IT Support](https://ostechnology.uk/services/business/it-support)
 
 ### Cybersecurity
 
 Endpoint protection, security audits and incident response to keep your business protected.
+
+View Service →
 
 [Cybersecurity](https://ostechnology.uk/services/business/cybersecurity)
 
@@ -129,7 +133,31 @@ Endpoint protection, security audits and incident response to keep your business
 
 Microsoft 365 and Copilot AI, set up, managed and supported.
 
+View Service →
+
 [Microsoft Modern Workplace](https://ostechnology.uk/services/business/modern-workplace)
+
+## Remote support and arranged visits in Hessle
+
+OS Technology is based in Beverley and supports businesses across the East Riding. We begin with secure remote support where suitable. For work that needs someone on-site in Hessle, we agree the visit, scope and charges with you in advance. Support hours depend on your managed plan; response arrangements are set out in the proposal.
+
+[Compare managed plans ↗](https://ostechnology.uk/services/business#managed-plans)
+
+### Hull
+
+Explore business IT support in Hull.
+
+Explore ↗
+
+[Hull](https://ostechnology.uk/locations/it-support-hull)
+
+### Cottingham
+
+Explore business IT support in Cottingham.
+
+Explore ↗
+
+[Cottingham](https://ostechnology.uk/locations/it-support-cottingham)
 
 ## Tell us what needs to work better.
 
